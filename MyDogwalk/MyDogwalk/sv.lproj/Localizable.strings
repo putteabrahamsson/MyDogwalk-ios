@@ -1,0 +1,428 @@
+/* 
+  Localizable.strings
+  MyDogwalk
+
+  Created by Putte on 2019-04-09.
+  Copyright © 2019 Putte. All rights reserved.
+*/
+
+//For all viewControllers
+"dogwalk" = "Dogwalk";
+"history" = "Historik";
+"settings" = "Mer";
+"indicator-loading" = "Laddar...";
+"dateLocale" = "SV";
+
+//ViewController
+"btnLogin" = "Logga in";
+"btnRegister" = "Registrera";
+
+//LoginViewController
+"LoginEmail" = "Email:";
+"LoginPassword" = "Lösenord:";
+"LoginTitle" = "Logga in";
+"LoginForgotPass" = "Glömt lösenord?";
+"ftl" = "Misslyckades";
+"wep" = "Fel e-mailadress eller lösenord";
+"ok" = "OK";
+
+//ForgotPasswordViewController
+"btnResetPass" = "Återställ lösenord";
+"ForgotEmail" = "Email:";
+"ForgotPassTitle" = "Glömt lösenord";
+
+//SignupViewController
+"regTitle" = "Registrera";
+"regEmail" = "Email:";
+"regPass" = "Lösenord:";
+"regRepeat" = "Repetera lösenord:";
+"regNext" = "Registrera";
+"missingTitle" = "Fel inträffade!";
+"missingContent" = "Vänligen fyll i alla tomma rutor!";
+"lessThan6" = "Ditt lösenord måste innehålla minst 6 bokstäver/siffror!";
+"noMatch1" = "Lösenorden matchar inte varandra!";
+"badTitle" = "Fel inträffade!";
+"badEmail" = "Något gick fel med din email.";
+"termsTxt" = "Jag har läst och godkänner";
+
+//ALL SIGNUPS
+"clearBtn" = "Rensa";
+
+//DogwalkViewController
+"dwSave" = "Spara";
+"dwDog" = "Välj hund:";
+"dwPerson" = "Välj person:";
+"dwWhat" = "Vad gjorde hunden?";
+"dwDate" = "Datum:";
+"dwTime" = "Tid:";
+"dwMore" = "Fler promenader?";
+"dwSeg0" = "Ja";
+"dwSeg1" = "Nej";
+"allFields" = "Vänligen fyll i alla rutor!";
+"addNote" = "Lägg till notering";
+
+"clearBtn" = "Rensa";
+"clearTitle" = "Rensa promenad";
+"clearBody" = "Vill du rensa promenaden?";
+"clearRemove" = "Ja";
+"clearCancel" = "Avbryt";
+
+//ImageViewController
+"addImgHeader" = "Lägg till bilder";
+"addImgChoose" = "Välj";
+
+"del-img-title" = "Ta bort";
+"del-img-body" = "Är du säker att du vill ta bort bilden?";
+"del-delete" = "Ja";
+"del-cancel" = "Nej";
+
+"del-noSel-title" = "Hoppsan!";
+"del-noSel-body" = "Ingen bild är vald.";
+"del-noSel-ok" = "OK";
+
+//MapViewController
+"mapSave" = "Spara";
+"mapTitle" = "Karta";
+
+"suhr" = "Är du säker?";
+"remMap" = "Du kommer att radera din nuvarande promenad, och detta går inte att återställa senare!";
+"remAbort" = "Avbryt";
+"removeMap" = "Radera";
+
+"map-cancel-title" = "Ta bort rutt";
+"map-cancel-body" = "Är du säker att du vill radera denna promenadrutt?";
+"map-cancel-delete" = "Ta bort";
+"map-cancel-cancel" = "Avbryt";
+
+//DateTimeViewController
+"dateTimeSave" = "Välj";
+"dateTitle" = "Välj datum";
+"timeTitle" = "Välj tid";
+"dateTimeTitle" = "Välj datum och tid";
+
+//DogViewController
+"dogDog" = "Välj hund";
+"dogPerson" = "Välj person";
+"dogWhat" = "Välj vad";
+"dogSave" = "Välj";
+
+"whatKiss" = "Kissade";
+"whatBajs" = "Bajsade";
+"whatKB" = "Kiss & Bajs";
+"whatKL" = "Kiss & Lek";
+"whatKR" = "Kiss & Löpning";
+"whatKBL" = "Kiss, Bajs & Lek";
+"whatKBR" = "Kiss, Bajs & Löpning";
+"whatKI" = "Kiss inne";
+"whatBI" = "Bajs inne";
+"whatDB" = "Dusch / Bad";
+"whatInget" = "Inget";
+
+"empty-title" = "Saknar hundar";
+"empty-txt" = "Du har inte lagt till några hundar!";
+"empty-btn" = "Lägg till";
+
+"empty-title-p" = "Saknar personer";
+"empty-txt-p" = "Du har inte lagt till några personer!";
+"empty-btn-p" = "Lägg till";
+
+"noDotsHeader" = "Hoppsan!";
+"noDots" = "Du kan inte välja detta alternativet!";
+
+//HistoryViewControlle
+"historyHeader" = "Historik";
+"historyPromenad" = "Promenad";
+"historyDusch" = "Dusch / Bad";
+"historyPoints" = "Poäng";
+"historyUpdate" = "Dra ned för att uppdatera";
+
+//ScoreBoardViewController
+"scoreboardHeader" = "Poänglista";
+
+//ViewRowViewController
+"rowHeader" = "Visar promenad";
+"rowSeg0" = "Satellit";
+"rowSeg1" = "Standard";
+"noResult" = "Ingen statistik hittades..";
+"shareRoute" = "Dela promenad";
+
+"auss" = "Är du säker?";
+"aussMessage" = "Är du säker att du vill radera denna dusch/bad? Detta går inte att ångra i efterhand!";
+"ausMessage" = "Är du säker att du vill radera promenaden? Detta går inte att ångra i efterhand!";
+"remove" = "Radera";
+"cancel-remove-row" = "Avbryt";
+
+"share" = "Kolla in promenaden jag gick! Jag och %@ gick en runda på %@ på %@ minuter. Testa du också!";
+
+//ViewMapViewController
+"view-map-header" = "Visar karta";
+
+//ViewImgViewController
+"view-img-header" = "Visar bilder";
+
+//ViewNoteViewController
+"noData" = "Ingen notering tillgänglig!";
+"noteHeader" = "Visar notering";
+
+//MoreViewController
+"sett-Premium" = "Shop";
+"sett-premiumSection" = "Premium sektion";
+"sett-myInfo" = "Min information";
+"sett-share" = "Dela med dina vänner";
+"sett-settings" = "Inställningar";
+
+"sett-buyPremium" = "Köp premium";
+"sett-readPremium" = "Läs om premium";
+
+"sett-logbook" = "Notiser";
+"sett-weightcontroll" = "Viktkontroll";
+
+"sett-myPeople" = "Personer";
+"sett-myDogs" = "Hundar";
+
+"sett-rateUs" = "Skriv en recension";
+"sett-tellFriend" = "Bjud in en vän";
+
+"sett-profile" = "Min profil";
+"sett-changePass" = "Byt lösenord";
+"sett-support" = "Support";
+"sett-restorePremium" = "Återställ köp";
+"sett-logout" = "Logga ut";
+
+"restore-alert-title" = "Lyckades!";
+"restore-alert-mess" = "Ditt köp har återställts!";
+"restore-alert-thanks" = "Tack";
+
+"logme" = "Logga ut";
+"logSure" = "Är du säker att du vill logga ut?";
+
+"More" = "Mer";
+"newsBtn" = "Nyheter";
+
+"shareWithFriend" = "Jag använder mig av MyDogwalk för att underlätta i vardagen. Med hjälp av appen har jag full koll på min hund. Till exempel när det är dags för en ny promenad! Testa du också! :)";
+
+"cancel" = "Avbryt";
+"logout" = "Logga ut";
+
+//ReadPremiumViewController
+"ap-title" = "Om premium";
+"ap-removeAds" = "Ta bort all reklam!";
+"ap-moreFunctions" = "Få tillgång till många fler funktioner!";
+"ap-specialOffers" = "Ta del av specialerbjudanden!";
+
+//Premium stuff
+"soonPrem1" = "Snart ute!";
+"soonPrem2" = "Shoppen håller på att byggas, vänligen vänta tills den släpps!";
+"soonPremOK" = "OK";
+
+//ProfileViewController
+"profileHeader" = "Min profil";
+"profileVersion" = "Version:";
+"profileUpgraded" = "Premium:";
+"profileRegistered" = "Registrerad:";
+"profileTerms" = "Integritetspolicy";
+"upgradeStatus" = "Nej";
+"termsLink" = "https://docs.google.com/document/d/1T3OItzX5XYav3edgm6RvOrx-uy3Oa17asteHFT9xKNU/edit?usp=sharing";
+
+"profile-prem-yes" = "Ja";
+"profile-prem-no" = "Nej";
+
+//ChangePassViewController
+"cpHeader" = "Ändra lösenord";
+"cpPass" = "Nytt lösenord:";
+"cpPassRepeat" = "Upprepa lösenord:";
+"cpSeg0" = "Visa lösenord";
+"cpSeg1" = "Göm lösenord";
+"cpChange" = "Ändra";
+
+"fled" = "Misslyckades!";
+"secure" = "Lösenordet måste vara säkert, och innehålla minst 6 tecken!";
+"succededHeader" = "Lyckades!";
+"succeded" = "Lösenordet är nu ändrat!";
+"noMatch" = "Lösenorden matchar inte! Försök igen..";
+
+
+//ChooseTimerViewController
+"chooseHeader" = "Välj timer";
+"chooseSave" = "Välj";
+
+//Notifications
+"0h" = "Ingen timer";
+"30m" = "30 minuter";
+"1h" = "1 timma";
+"1h30m" = "1 timma och 30 minuter";
+"2h" = "2 timmar";
+"2h30m" = "2 timmar och 30 minuter";
+"3h" = "3 timmar";
+"3h30m" = "3 timmar och 30 minuter";
+"4h" = "4 timmar";
+"4h30m" = "4 timmar och 30 minuter";
+"5h" = "5 timmar";
+"5h30m" = "5 timmar och 30 minuter";
+"6h" = "6 timmar";
+"6h30m" = "6 timmar och 30 minuter";
+"7h" = "7 timmar";
+
+"TimeForNewWalk" = "Dags för en ny promenad?";
+"Notkey" = "Det var %@ sedan %@ var ute på en promenad!";
+
+//AddNewViewController
+"add-human" = "Personer";
+"add-dog" = "Hundar";
+"list-male" = "Man";
+"list-female" = "Kvinna";
+"list-other" = "Annat";
+
+//AddNewDogViewController
+"editMode" = "Ändra hund";
+
+"newDog-header" = "Lägg till ny";
+"newDog-save" = "Spara";
+
+"newDog-name" = "Namn:";
+"newDog-breed" = "Ras:";
+"newDog-sex" = "Kön:";
+"newDog-dob" = "Födelsedag:";
+
+"seg0" = "Hane";
+"seg1" = "Tik";
+"seg2" = "Annat";
+
+"newDog-info" = "Information";
+"newDog-timer" = "Timer";
+"newDog-delete" = "Ta bort";
+"newDog-premium" = "Premium";
+
+"newDog-alert-title" = "Fel uppstod!";
+"newDog-alert-txt" = "Du måste ge hunden ett namn!";
+"newDog-ok" = "OK";
+
+"deleteDog-title" = "Ta bort";
+"deleteDog-txt" = "Är du säker att du vill ta bort hunden? Du kommer inte kunna ångra detta i efterhand!";
+"deleteDog-cancel" = "Avbryt";
+"deleteDog-remove" = "Ta bort";
+
+"no-prem-title" = "Premium";
+"no-prem-body" = "Denna funktionen kräver att du har köpt premium!";
+"no-prem-ok" = "OK";
+
+
+//DobViewController
+"dobHeader" = "Födelsedag";
+"dobChoose" = "Välj";
+
+//PersonViewController
+"edit-person" = "Ändra person";
+"add-person" = "Lägg till";
+"newPerson-save" = "Spara";
+
+"newPerson-name" = "Namn:";
+"newPerson-gender" = "Kön:";
+"newPerson-dob" = "Födelsedag:";
+
+"seg0Male" = "Man";
+"seg1Female" = "Kvinna";
+"seg2Other" = "Annat";
+
+"newPerson-delete" = "Ta bort";
+"newPerson-info" = "Information";
+
+"newPerson-alert-title" = "Fel uppstod!";
+"newPerson-alert-txt" = "Du måste tilldela personen ett namn!";
+"newPerson-ok" = "OK";
+
+"deletePerson-title" = "Ta bort";
+"deletePerson-txt" = "Är du säker att du vill ta bort personen? Du kommer inte kunna ångra det i efterhand!";
+"deletePerson-cancel" = "Avbryt";
+"deletePerson-remove" = "Ta bort";
+
+//NoteViewController
+"addNewNote" = "Lägg till en notering:";
+"note-hdr" = "Lägg till notering";
+"note-choose" = "Välj";
+
+//PremiumViewController
+"prem-header-vacc" = "Vaccinationsintyg";
+"prem-header-info" = "Information";
+"prem-header-activity" = "Aktivitet";
+"prem-header-other" = "Övrigt";
+
+"prem-info" = "Grundinformation";
+"prem-health" = "Hälsokontroll";
+"prem-vaccination" = "Vaccinationer";
+"prem-log" = "Loggbok";
+
+"prem-veterinary" = "Veterinärsintyg";
+"prem-documentation" = "Dokumentation";
+"prem-insurance" = "Försäkringsbrev";
+
+"prem-course" = "Kurser";
+"prem-comp" = "Tävlingar";
+
+"prem-pedigree" = "Stamtavla";
+"prem-weight" = "Viktkontroll";
+"prem-other" = "Övrigt";
+
+"temp-title" = "Uppdatering";
+"temp-body" = "Denna funktionen kommer att lanseras i en senare uppdatering.";
+"temp-ok" = "OK";
+
+//PremImgViewController
+"vetHeader" = "Veterinärsintyg";
+"docuHeader" = "Dokumentation";
+"insuHeader" = "Försäkringsbrev";
+"pediHeader" = "Stamtavla";
+
+"imgChoose" = "Spara";
+
+//Basic information
+"basicInfoHdr" = "Grundinformation";
+"basicInfoChoose" = "Spara";
+
+"basic-sec-info" = "Grundinformation";
+"basic-sec-ownership" = "Ägarskap";
+"basic-sec-castration" = "Kastrering";
+
+"basic-lbl-dogid" = "Hund ID:";
+"basic-lbl-reg" = "Registrerings nr:";
+"basic-lbl-dogname" = "Hundnamn:";
+"basic-lbl-breed" = "Ras:";
+"basic-lbl-born" = "Födelsedag:";
+"basic-lbl-gender" = "Kön:";
+"basic-lbl-color" = "Färg:";
+
+"basic-lbl-owner" = "Ägare:";
+"basic-lbl-address" = "Adress: ";
+"basic-lbl-phone" = "Telefon:";
+
+"basic-lbl-date" = "Datum:";
+"basic-lbl-veterinary" = "Veterinär:";
+
+"basic-seg-0" = "Hane";
+"basic-seg-1" = "Tik";
+"basic-seg-2" = "Annat";
+
+//PremHisViewController
+"premHis-title" = "Notiser";
+
+"premHis-rem-title" = "Ta bort";
+"premHis-rem-message" = "Är du säker att du vill ta bort raden?";
+"premHis-rem-ok" = "Nej";
+"premHis-rem-remove" = "Ta bort";
+
+"pH-alert-title" = "Fel uppstod!";
+"pH-alert-message" = "Välj den raden du vill ta bort!";
+"pH-alert-ok" = "OK";
+
+//NewHealthViewController
+"NH-title" = "Rubrik:";
+"NH-noti" = "Notering:";
+"NH-dogname" = "Hundens namn:";
+"NH-name" = "Ditt namn:";
+"NH-date" = "Datum:";
+"NH-save" = "Spara";
+"NH-header-title" = "Noteringar";
+
+"NH-noti-title" = "Nytt evenemang: %@";
+"NH-noti-body" = "%@";
+

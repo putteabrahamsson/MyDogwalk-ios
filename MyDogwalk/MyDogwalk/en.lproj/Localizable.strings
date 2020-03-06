@@ -1,0 +1,422 @@
+/*
+ Localizable.strings
+ MyDogwalk
+ 
+ Created by Putte on 2019-04-09.
+ Copyright © 2019 Putte. All rights reserved.
+ */
+
+//For all viewControllers
+"dogwalk" = "Dogwalk";
+"history" = "History";
+"settings" = "More";
+"indicator-loading" = "Loading...";
+"dateLocale" = "EN";
+
+//ViewController
+"btnLogin" = "Login";
+"btnRegister" = "Register";
+
+//LoginViewController
+"LoginEmail" = "Email:";
+"LoginPassword" = "Password:";
+"LoginTitle" = "Login";
+"LoginForgotPass" = "Forgot password?";
+"ftl" = "Failed to login";
+"wep" = "Wrong email or password";
+"ok" = "OK";
+
+//ForgotPasswordViewController
+"btnResetPass" = "Reset password";
+"ForgotEmail" = "Email:";
+"ForgotPassTitle" = "Forgot password";
+
+//SignupViewController
+"regTitle" = "Register";
+"regEmail" = "Email:";
+"regPass" = "Password:";
+"regRepeat" = "Repeat password:";
+"regNext" = "Register";
+"missingTitle" = "Error";
+"missingContent" = "Please fill in all the empty boxes!";
+"lessThan6" = "Your password must contain atleast 6 characters!";
+"noMatch1" = "The passwords does not match!";
+"badTitle" = "Error";
+"badEmail" = "Something went wrong with the email.";
+"termsTxt" = "I've read and I accept";
+
+//ALL SIGNUPS
+"clearBtn" = "Clear";
+
+//DogwalkViewController
+"dwSave" = "Save";
+"dwDog" = "Choose dog:";
+"dwPerson" = "Choose person:";
+"dwWhat" = "What did the dog do?";
+"dwDate" = "Date:";
+"dwTime" = "Time:";
+"dwMore" = "More walks?";
+"dwSeg0" = "Yes";
+"dwSeg1" = "No";
+"allFields" = "Please fill in all the boxes!";
+"addNote" = "Add a note";
+
+"clearBtn" = "Clear";
+"clearTitle" = "Clear walk";
+"clearBody" = "Do you want to clear the walk?";
+"clearRemove" = "Yes";
+"clearCancel" = "Cancel";
+
+//ImageViewController
+"addImgHeader" = "Add images";
+"addImgChoose" = "Choose";
+
+"del-img-title" = "Remove";
+"del-img-body" = "Are you sure you wanna remove this image?";
+"del-delete" = "Yes";
+"del-cancel" = "No";
+
+"del-noSel-title" = "Ops!";
+"del-noSel-body" = "No image are selected.";
+"del-noSel-ok" = "OK";
+
+//MapViewController
+"mapSave" = "Save";
+"mapTitle" = "Map";
+
+"suhr" = "Are you sure?";
+"remMap" = "You're going to remove your current walk, and you can not undo this later!";
+"remAbort" = "Cancel";
+"removeMap" = "Remove";
+
+"map-cancel-title" = "Delete route";
+"map-cancel-body" = "Are you sure you wanna delete this walking route?";
+"map-cancel-delete" = "Delete";
+"map-cancel-cancel" = "Cancel";
+
+//DateTimeViewController
+"dateTimeSave" = "Choose";
+"dateTitle" = "Choose date";
+"timeTitle" = "Choose time";
+"dateTimeTitle" = "Choose date and time";
+
+//DogViewController
+"dogDog" = "Choose dog";
+"dogPerson" = "Choose person";
+"dogWhat" = "Choose what";
+"dogSave" = "Choose";
+
+"whatKiss" = "Pee";
+"whatBajs" = "Poop";
+"whatKB" = "Pee & Poop";
+"whatKL" = "Pee & Play";
+"whatKR" = "Pee & Running";
+"whatKBL" = "Pee, Poop & Play";
+"whatKBR" = "Pee, Poop & Running";
+"whatKI" = "Pee inside";
+"whatBI" = "Poop inside";
+"whatDB" = "Shower / Bath";
+"whatInget" = "Nothing";
+
+"empty-title" = "Missing dogs";
+"empty-txt" = "You don't have any dogs!";
+"empty-btn" = "Add new";
+
+"empty-title-p" = "Missing people";
+"empty-txt-p" = "You don't have any people!";
+"empty-btn-p" = "Add new";
+
+
+"noDotsHeader" = "Error occured!";
+"noDots" = "You can not choose this alternative!";
+
+//HistoryViewController
+"historyHeader" = "History";
+"historyPromenad" = "Walk";
+"historyDusch" = "Shower / Bath";
+"historyPoints" = "Points";
+"historyUpdate" = "Pull down to update";
+
+//ScoreBoardViewController
+"scoreboardHeader" = "Scoreboard";
+
+//ViewRowViewController
+"rowHeader" = "Viewing walk";
+"rowSeg0" = "Satellite";
+"rowSeg1" = "Standard";
+"noResult" = "No statistics found..";
+"shareRoute" = "Share walking-routine";
+
+"auss" = "Are you sure?";
+"aussMessage" = "Are you sure you wanna remove this shower/bath? You cannot undo this later!";
+"ausMessage" = "Are you sure you wanna remove this walk? You cannot undo this later!";
+"remove" = "Remove";
+"cancel-remove-row" = "Cancel";
+
+"share" = "Check out the walk I went! Me and %@ walked around at %@ in %@ minutes. Try it too!";
+
+//ViewMapViewController
+"view-map-header" = "Viewing map";
+
+//ViewImgViewController
+"view-img-header" = "Viewing images";
+
+//ViewNoteViewController
+"noData" = "No notes available!";
+"noteHeader" = "Viewing notes";
+
+//MoreViewController
+"sett-Premium" = "Store";
+"sett-premiumSection" = "Premium section";
+"sett-myInfo" = "My information";
+"sett-share" = "Share with your friends";
+"sett-settings" = "Settings";
+
+"sett-buyPremium" = "Buy premium";
+"sett-readPremium" = "Read about premium";
+
+"sett-logbook" = "Notifications";
+"sett-weightcontroll" = "Weightcontroll";
+
+"sett-myPeople" = "People";
+"sett-myDogs" = "Dogs";
+
+"sett-rateUs" = "Rate us";
+"sett-tellFriend" = "Invite a friend";
+
+"sett-profile" = "My profile";
+"sett-changePass" = "Change password";
+"sett-support" = "Support";
+"sett-restorePremium" = "Restore purchase";
+"sett-logout" = "Logout";
+
+"restore-alert-title" = "Succeded!";
+"restore-alert-mess" = "Your purchase has been restored";
+"restore-alert-thanks" = "Thanks";
+
+"logme" = "Logout";
+"logSure" = "Are you sure you wanna logout?";
+
+"More" = "More";
+"newsBtn" = "News";
+
+"newsLink" = "https://mydogwalk.se/en-news.html";
+
+"shareWithFriend" = "I use MyDogwalk to make everyday life easier. With the help of the app, I have a full controll over my dog. For example, when it's time for a new walk! Try it too! :)";
+
+"cancel" = "Cancel";
+"logout" = "Logout";
+
+//Premium stuff
+"soonPrem1" = "Soon!";
+"soonPrem2" = "The store is under construction, please wait till it's release!";
+"soonPremOK" = "OK";
+
+//ProfileViewController
+"profileHeader" = "My profile";
+"profileVersion" = "Version:";
+"profileUpgraded" = "Premium:";
+"profileRegistered" = "Registered:";
+
+"profileRules" = "Communityregler";
+"profileTerms" = "Privacy Policy";
+
+"upgradeStatus" = "No";
+"termsLink" = "https://docs.google.com/document/d/1T3OItzX5XYav3edgm6RvOrx-uy3Oa17asteHFT9xKNU/edit?usp=sharing";
+
+"profile-prem-yes" = "Yes";
+"profile-prem-no" = "No";
+
+//ChangePassViewController
+"cpHeader" = "Change password";
+"cpPass" = "New password:";
+"cpPassRepeat" = "Repeat password:";
+"cpSeg0" = "Show password";
+"cpSeg1" = "Hide password";
+"cpChange" = "Change";
+
+"fled" = "Failed!";
+"secure" = "Password must be safe, and contain atleast 6 characters!";
+"succededHeader" = "Succeded!";
+"succeded" = "Password is now changed!";
+"noMatch" = "The passwords dosen't match, please try again..";
+
+//ChooseTimerViewController
+"chooseHeader" = "Choose timer";
+"chooseSave" = "Choose";
+
+//Notifications
+"0h" = "No timer";
+"30m" = "30 minutes";
+"1h" = "1 hour";
+"1h30m" = "1 hour and 30 minutes";
+"2h" = "2 hours";
+"2h30m" = "2 hours and 30 minutes";
+"3h" = "3 hours";
+"3h30m" = "3 hours and 30 minutes";
+"4h" = "4 hours";
+"4h30m" = "4 hours and 30 minutes";
+"5h" = "5 hours";
+"5h30m" = "5 hours and 30 minutes";
+"6h" = "6 hours";
+"6h30m" = "6 hours and 30 minutes";
+"7h" = "7 hours";
+
+"TimeForNewWalk" = "Time for a new walk?";
+"Notkey" = "It was %@ since %@ was out on a walk!";
+
+//AddNewViewController
+"add-human" = "People";
+"add-dog" = "Dogs";
+"list-male" = "Male";
+"list-female" = "Female";
+"list-other" = "Other";
+
+//AddNewDogViewController
+"editMode" = "Edit dog";
+
+"newDog-header" = "Add new";
+"newDog-save" = "Save";
+
+"newDog-name" = "Name:";
+"newDog-breed" = "Breed:";
+"newDog-sex" = "Gender:";
+"newDog-dob" = "Date of Birth:";
+
+"seg0" = "Male";
+"seg1" = "Female";
+"seg2" = "Other";
+
+"newDog-info" = "Information";
+"newDog-timer" = "Timer";
+"newDog-delete" = "Delete";
+"newDog-premium" = "Premium";
+
+"newDog-alert-title" = "Error occured!";
+"newDog-alert-txt" = "You have to give your dog a name!";
+"newDog-ok" = "OK";
+
+"deleteDog-title" = "Remove dog";
+"deleteDog-txt" = "Are you sure you wanna remove the dog? You can not undo this later!";
+"deleteDog-cancel" = "Cancel";
+"deleteDog-remove" = "Remove";
+
+"no-prem-title" = "Premium";
+"no-prem-body" = "This function requires premium version!";
+"no-prem-ok" = "OK";
+
+//DobViewController
+"dobHeader" = "Date of Birth";
+"dobChoose" = "Choose";
+
+//PersonViewController
+"edit-person" = "Edit person";
+"add-person" = "Add new";
+"newPerson-save" = "Save";
+
+"newPerson-name" = "Name:";
+"newPerson-gender" = "Gender:";
+"NewPerson-dob" = "Date of Birth:";
+
+"seg0Male" = "Male";
+"seg1Female" = "Female";
+"seg2Other" = "Other";
+
+"newPerson-delete" = "Delete";
+"newPerson-info" = "Information";
+
+"newPerson-alert-title" = "Error occured!";
+"newPerson-alert-txt" = "You have to give your person a name!";
+"newPerson-ok" = "OK";
+
+"deletePerson-title" = "Remove person";
+"deletePerson-txt" = "Are you sure you wanna remove this person? You can not undo this later!";
+"deletePerson-cancel" = "Cancel";
+"deletePerson-remove" = "Remove";
+
+//NoteViewController
+"addNewNote" = "Add a note:";
+"note-hdr" = "Add note";
+"note-choose" = "Save";
+
+//PremiumViewController
+"prem-header-vacc" = "Vaccination certificate";
+"prem-header-info" = "Information";
+"prem-header-activity" = "Activity";
+"prem-header-other" = "Other";
+
+"prem-info" = "Basic information";
+"prem-vaccination" = "Vaccinations";
+"prem-log" = "Log";
+
+"prem-veterinary" = "Veterinary certificate";
+"prem-documentation" = "Documentation";
+"prem-insurance" = "Insuranceletter";
+
+"prem-course" = "Courses";
+"prem-comp" = "Competition";
+
+"prem-pedigree" = "Pedigree";
+"prem-weight" = "Weightcontroll";
+"prem-other" = "Other";
+
+"temp-title" = "Update";
+"temp-body" = "This function will be released in a future update!";
+"temp-ok" = "OK";
+
+//Basic information
+"basicInfoHdr" = "Basic information";
+"basicInfoChoose" = "Save";
+
+"basic-sec-info" = "Basic information";
+"basic-sec-ownership" = "Ownership";
+"basic-sec-castration" = "Castration";
+
+"basic-lbl-dogid" = "Dog ID:";
+"basic-lbl-reg" = "Registration number:";
+"basic-lbl-dogname" = "Dogname:";
+"basic-lbl-breed" = "Breed:";
+"basic-lbl-born" = "Date of birth:";
+"basic-lbl-gender" = "Gender:";
+"basic-lbl-color" = "Color:";
+
+"basic-lbl-owner" = "Owner:";
+"basic-lbl-address" = "Address: ";
+"basic-lbl-phone" = "Phone:";
+
+"basic-lbl-date" = "Date:";
+"basic-lbl-veterinary" = "Veterinary:";
+
+"basic-seg-0" = "Male";
+"basic-seg-1" = "Female";
+"basic-seg-2" = "Other";
+
+//PremImgViewController
+"vetHeader" = "Veterinary certificate";
+"docuHeader" = "Documentation";
+"insuHeader" = "Insurance letter";
+"pediHeader" = "Pedigree";
+
+//PremHisViewController
+"premHis-title" = "Notifications";
+
+"premHis-rem-title" = "Remove";
+"premHis-rem-message" = "Are you sure you wanna remove this row?";
+"premHis-rem-ok" = "No";
+"premHis-rem-remove" = "Remove";
+
+"pH-alert-title" = "Error occured!";
+"pH-alert-message" = "Choose the row you wanna delete";
+"pH-alert-ok" = "OK";
+
+//NewHealthViewController
+"NH-title" = "Title:";
+"NH-noti" = "Notes:";
+"NH-dogname" = "Dogname:";
+"NH-name" = "Your name:";
+"NH-date" = "Date:";
+"NH-save" = "Save";
+"NH-header-title" = "Notifications";
+
+"NH-noti-title" = "New event: %@";
+"NH-noti-body" = "%@";

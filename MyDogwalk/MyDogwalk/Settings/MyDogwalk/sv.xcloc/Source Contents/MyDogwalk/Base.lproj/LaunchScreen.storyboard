@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView autoresizesSubviews="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="background" translatesAutoresizingMaskIntoConstraints="NO" id="WoO-RJ-5ek">
+                                <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                            </imageView>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="cBN-Mg-P90">
+                                <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="www.MyDogwalk.se" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="SCL-57-ONB">
+                                        <rect key="frame" x="0.0" y="35" width="375" height="29"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="24"/>
+                                        <nil key="textColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Copyright © MyDogwalk 2019" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="3IV-4T-ciB">
+                                        <rect key="frame" x="0.0" y="630" width="375" height="29"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="24"/>
+                                        <nil key="textColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="home" translatesAutoresizingMaskIntoConstraints="NO" id="tIb-xu-p5X">
+                                        <rect key="frame" x="149.5" y="297.5" width="76" height="72"/>
+                                    </imageView>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Hej! Jag heter Putte!" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="kra-cK-lOT">
+                                        <rect key="frame" x="99" y="198" width="177" height="21"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                        <nil key="textColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                                <color key="backgroundColor" red="0.2470588235" green="0.92549019610000005" blue="0.78823529410000004" alpha="0.61488655821917804" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstItem="SCL-57-ONB" firstAttribute="top" secondItem="cBN-Mg-P90" secondAttribute="top" constant="35" id="1QA-td-tbC"/>
+                                    <constraint firstItem="kra-cK-lOT" firstAttribute="top" secondItem="SCL-57-ONB" secondAttribute="bottom" constant="134" id="ByW-fv-9e4"/>
+                                    <constraint firstAttribute="trailing" secondItem="3IV-4T-ciB" secondAttribute="trailing" id="HDZ-lC-P9b"/>
+                                    <constraint firstItem="tIb-xu-p5X" firstAttribute="centerY" secondItem="cBN-Mg-P90" secondAttribute="centerY" id="Kug-Ph-gWx"/>
+                                    <constraint firstAttribute="bottom" secondItem="3IV-4T-ciB" secondAttribute="bottom" constant="8" id="SvD-QT-Q50"/>
+                                    <constraint firstAttribute="trailing" secondItem="SCL-57-ONB" secondAttribute="trailing" id="VLO-pg-ULo"/>
+                                    <constraint firstItem="3IV-4T-ciB" firstAttribute="leading" secondItem="cBN-Mg-P90" secondAttribute="leading" id="YTv-0O-5Ph"/>
+                                    <constraint firstItem="tIb-xu-p5X" firstAttribute="centerX" secondItem="cBN-Mg-P90" secondAttribute="centerX" id="aRD-Nn-TSQ"/>
+                                    <constraint firstItem="tIb-xu-p5X" firstAttribute="top" secondItem="kra-cK-lOT" secondAttribute="bottom" constant="78.5" id="ado-5N-BMJ"/>
+                                    <constraint firstItem="SCL-57-ONB" firstAttribute="leading" secondItem="cBN-Mg-P90" secondAttribute="leading" id="bfZ-3n-Z9P"/>
+                                    <constraint firstItem="kra-cK-lOT" firstAttribute="leading" secondItem="cBN-Mg-P90" secondAttribute="leading" constant="99" id="fiQ-e5-OEw"/>
+                                    <constraint firstAttribute="trailing" secondItem="kra-cK-lOT" secondAttribute="trailing" constant="99" id="u6m-1T-cXA"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" red="0.087402813136577606" green="0.049357101321220398" blue="0.022118706256151199" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="cBN-Mg-P90" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="BSF-Kw-5xt"/>
+                            <constraint firstItem="WoO-RJ-5ek" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="top" id="Eet-zc-cky"/>
+                            <constraint firstItem="cBN-Mg-P90" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="Fsm-OK-Mu3"/>
+                            <constraint firstItem="WoO-RJ-5ek" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="TLx-bE-KuX"/>
+                            <constraint firstItem="cBN-Mg-P90" firstAttribute="bottom" secondItem="6Tk-OE-BBY" secondAttribute="bottom" id="agN-3q-TWo"/>
+                            <constraint firstItem="WoO-RJ-5ek" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="nbj-wm-gZH"/>
+                            <constraint firstItem="cBN-Mg-P90" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="top" id="v5z-Mr-E9Y"/>
+                            <constraint firstItem="WoO-RJ-5ek" firstAttribute="bottom" secondItem="6Tk-OE-BBY" secondAttribute="bottom" id="wJy-ag-k6U"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="52" y="374.66266866566718"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="background" width="1920" height="1280"/>
+        <image name="home" width="76" height="72"/>
+    </resources>
+</document>

@@ -1,0 +1,474 @@
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "010-4O-Z3B"; */
+"010-4O-Z3B.normalTitle" = "Register";
+
+/* Class = "UILabel"; text = "Hundpass"; ObjectID = "0Du-1f-Hfv"; */
+"0Du-1f-Hfv.text" = "Hundpass";
+
+/* Class = "UILabel"; text = "Historik"; ObjectID = "0UI-Ur-TLf"; */
+"0UI-Ur-TLf.text" = "Historik";
+
+/* Class = "UILabel"; text = "Hundpass"; ObjectID = "1x9-iz-Gbq"; */
+"1x9-iz-Gbq.text" = "Hundpass";
+
+/* Class = "UIBarButtonItem"; title = "Tillbaka"; ObjectID = "2aW-Wb-prJ"; */
+"2aW-Wb-prJ.title" = "Tillbaka";
+
+/* Class = "UILabel"; text = "Email:"; ObjectID = "2fA-st-acH"; */
+"2fA-st-acH.text" = "Email:";
+
+/* Class = "UILabel"; text = "Socialt"; ObjectID = "2rb-Q3-3LU"; */
+"2rb-Q3-3LU.text" = "Socialt";
+
+/* Class = "UILabel"; text = "Hundpass"; ObjectID = "385-CR-9zJ"; */
+"385-CR-9zJ.text" = "Hundpass";
+
+/* Class = "UIButton"; normalTitle = "Youtube"; ObjectID = "3U5-k9-XQz"; */
+"3U5-k9-XQz.normalTitle" = "Youtube";
+
+/* Class = "UILabel"; text = "Hundpass"; ObjectID = "3sT-GE-3J7"; */
+"3sT-GE-3J7.text" = "Hundpass";
+
+/* Class = "UILabel"; text = "Lösenord:"; ObjectID = "4hP-xT-ssc"; */
+"4hP-xT-ssc.text" = "Lösenord:";
+
+/* Class = "UILabel"; text = "documentID"; ObjectID = "55X-jy-yIr"; */
+"55X-jy-yIr.text" = "documentID";
+
+/* Class = "UIButton"; normalTitle = "Ändra lösenord"; ObjectID = "5LW-Rj-n4s"; */
+"5LW-Rj-n4s.normalTitle" = "Ändra lösenord";
+
+/* Class = "UIBarButtonItem"; title = "Tillbaka"; ObjectID = "5be-Be-tOH"; */
+"5be-Be-tOH.title" = "Tillbaka";
+
+/* Class = "UIButton"; normalTitle = "Återställ"; ObjectID = "5dV-PE-XkZ"; */
+"5dV-PE-XkZ.normalTitle" = "Återställ";
+
+/* Class = "UIButton"; normalTitle = "Registrera"; ObjectID = "6Hw-Jt-YVX"; */
+"6Hw-Jt-YVX.normalTitle" = "Registrera";
+
+/* Class = "UILabel"; text = "Inställningar"; ObjectID = "6PV-pi-b9I"; */
+"6PV-pi-b9I.text" = "Inställningar";
+
+/* Class = "UILabel"; text = "Historik"; ObjectID = "6UO-Eu-ZPk"; */
+"6UO-Eu-ZPk.text" = "Historik";
+
+/* Class = "UILabel"; text = "Inställningar"; ObjectID = "6dD-34-Rug"; */
+"6dD-34-Rug.text" = "Inställningar";
+
+/* Class = "UILabel"; text = "Hundpass"; ObjectID = "7FK-ox-z1d"; */
+"7FK-ox-z1d.text" = "Hundpass";
+
+/* Class = "UINavigationItem"; title = "MyDogwalk"; ObjectID = "7IQ-M2-4n9"; */
+"7IQ-M2-4n9.title" = "MyDogwalk";
+
+/* Class = "UILabel"; text = "Historik"; ObjectID = "7Qb-mr-bbr"; */
+"7Qb-mr-bbr.text" = "Historik";
+
+/* Class = "UILabel"; text = "Hund"; ObjectID = "8nM-Pa-FyR"; */
+"8nM-Pa-FyR.text" = "Hund";
+
+/* Class = "UINavigationItem"; title = "Välj hund"; ObjectID = "9Fu-eB-1ia"; */
+"9Fu-eB-1ia.title" = "Välj hund";
+
+/* Class = "UIBarButtonItem"; title = "Tillbaka"; ObjectID = "9HK-zw-nQy"; */
+"9HK-zw-nQy.title" = "Tillbaka";
+
+/* Class = "UILabel"; text = "Email:"; ObjectID = "9P8-Rt-HhU"; */
+"9P8-Rt-HhU.text" = "Email:";
+
+/* Class = "UIButton"; normalTitle = "Jordbruksverket"; ObjectID = "9Qw-f6-Fho"; */
+"9Qw-f6-Fho.normalTitle" = "Jordbruksverket";
+
+/* Class = "UILabel"; text = "Hund:"; ObjectID = "ABU-jn-2VG"; */
+"ABU-jn-2VG.text" = "Hund:";
+
+/* Class = "UILabel"; text = "Historik"; ObjectID = "Anp-9a-wk2"; */
+"Anp-9a-wk2.text" = "Historik";
+
+/* Class = "UINavigationItem"; title = "Registrera"; ObjectID = "AoL-i0-4IR"; */
+"AoL-i0-4IR.title" = "Registrera";
+
+/* Class = "UILabel"; text = "Hundpass"; ObjectID = "CLG-gl-wqz"; */
+"CLG-gl-wqz.text" = "Hundpass";
+
+/* Class = "UILabel"; text = "Dogwalk"; ObjectID = "D1B-Kx-Z9b"; */
+"D1B-Kx-Z9b.text" = "Dogwalk";
+
+/* Class = "UIBarButtonItem"; title = "Tillbaka"; ObjectID = "DJA-QA-bFt"; */
+"DJA-QA-bFt.title" = "Tillbaka";
+
+/* Class = "UILabel"; text = "Email:"; ObjectID = "E0Q-Fx-pij"; */
+"E0Q-Fx-pij.text" = "Email:";
+
+/* Class = "UINavigationItem"; title = "Logga in"; ObjectID = "E2x-Gx-I58"; */
+"E2x-Gx-I58.title" = "Logga in";
+
+/* Class = "UILabel"; text = "Person:"; ObjectID = "E6M-gf-vaZ"; */
+"E6M-gf-vaZ.text" = "Person:";
+
+/* Class = "UILabel"; text = "Välj person:"; ObjectID = "ECS-1j-2GA"; */
+"ECS-1j-2GA.text" = "Välj person:";
+
+/* Class = "UINavigationItem"; title = "Djuraffärer"; ObjectID = "EQg-Ym-1Sa"; */
+"EQg-Ym-1Sa.title" = "Djuraffärer";
+
+/* Class = "UILabel"; text = "Website"; ObjectID = "EfM-JC-jLM"; */
+"EfM-JC-jLM.text" = "Website";
+
+/* Class = "UINavigationItem"; title = "Lägg till"; ObjectID = "Ejo-yN-AWe"; */
+"Ejo-yN-AWe.title" = "Lägg till";
+
+/* Class = "UIButton"; normalTitle = "Bloggar"; ObjectID = "Ew1-oB-P4c"; */
+"Ew1-oB-P4c.normalTitle" = "Bloggar";
+
+/* Class = "UISegmentedControl"; Eyu-GR-NC7.segmentTitles[0] = "Satellit"; ObjectID = "Eyu-GR-NC7"; */
+"Eyu-GR-NC7.segmentTitles[0]" = "Satellit";
+
+/* Class = "UISegmentedControl"; Eyu-GR-NC7.segmentTitles[1] = "Standard"; ObjectID = "Eyu-GR-NC7"; */
+"Eyu-GR-NC7.segmentTitles[1]" = "Standard";
+
+/* Class = "UILabel"; text = "0 m"; ObjectID = "FTd-5e-4MA"; */
+"FTd-5e-4MA.text" = "0 m";
+
+/* Class = "UINavigationItem"; title = "Ange hundar"; ObjectID = "G7i-zl-4sD"; */
+"G7i-zl-4sD.title" = "Ange hundar";
+
+/* Class = "UILabel"; text = "Datum"; ObjectID = "GJS-jG-Pnh"; */
+"GJS-jG-Pnh.text" = "Datum";
+
+/* Class = "UILabel"; text = "Inställningar"; ObjectID = "GSM-8I-2wa"; */
+"GSM-8I-2wa.text" = "Inställningar";
+
+/* Class = "UINavigationItem"; title = "Välj Datum"; ObjectID = "GeI-Ji-adq"; */
+"GeI-Ji-adq.title" = "Välj Datum";
+
+/* Class = "UILabel"; text = "Dogwalk"; ObjectID = "GhM-LU-qx8"; */
+"GhM-LU-qx8.text" = "Dogwalk";
+
+/* Class = "UILabel"; text = "Hundpass"; ObjectID = "H8q-RT-PO2"; */
+"H8q-RT-PO2.text" = "Hundpass";
+
+/* Class = "UIButton"; normalTitle = "Registrera"; ObjectID = "Hf8-UO-Cgr"; */
+"Hf8-UO-Cgr.normalTitle" = "Registrera";
+
+/* Class = "UILabel"; text = "Dogwalk"; ObjectID = "IA4-zA-o6w"; */
+"IA4-zA-o6w.text" = "Dogwalk";
+
+/* Class = "UILabel"; text = "Dogwalk"; ObjectID = "IH8-hA-5wy"; */
+"IH8-hA-5wy.text" = "Dogwalk";
+
+/* Class = "UILabel"; text = "Välj hund:"; ObjectID = "INf-oV-Xoz"; */
+"INf-oV-Xoz.text" = "Välj hund:";
+
+/* Class = "UILabel"; text = "Inställningar"; ObjectID = "IQX-A0-n3z"; */
+"IQX-A0-n3z.text" = "Inställningar";
+
+/* Class = "UILabel"; text = "Person:"; ObjectID = "IWq-Sa-gIp"; */
+"IWq-Sa-gIp.text" = "Person:";
+
+/* Class = "UILabel"; text = "Dogwalk"; ObjectID = "IlY-nO-fHM"; */
+"IlY-nO-fHM.text" = "Dogwalk";
+
+/* Class = "UINavigationItem"; title = "Glömt lösenord"; ObjectID = "ItO-2N-dVd"; */
+"ItO-2N-dVd.title" = "Glömt lösenord";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "JPB-36-izU"; */
+"JPB-36-izU.text" = "Date";
+
+/* Class = "UINavigationItem"; title = "Ändra lösenord"; ObjectID = "JZa-eu-Ei2"; */
+"JZa-eu-Ei2.title" = "Ändra lösenord";
+
+/* Class = "UILabel"; text = "Action"; ObjectID = "LiO-fK-iZb"; */
+"LiO-fK-iZb.text" = "Action";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "Loq-Jz-kbY"; */
+"Loq-Jz-kbY.text" = "Name";
+
+/* Class = "UILabel"; text = "timer"; ObjectID = "M3q-nD-sec"; */
+"M3q-nD-sec.text" = "timer";
+
+/* Class = "UILabel"; text = "0 m"; ObjectID = "MZt-Dw-uvS"; */
+"MZt-Dw-uvS.text" = "0 m";
+
+/* Class = "UILabel"; text = "Fler promenader?"; ObjectID = "Mi8-oD-ahL"; */
+"Mi8-oD-ahL.text" = "Fler promenader?";
+
+/* Class = "UISegmentedControl"; NJx-RZ-k4L.segmentTitles[0] = "Ja"; ObjectID = "NJx-RZ-k4L"; */
+"NJx-RZ-k4L.segmentTitles[0]" = "Ja";
+
+/* Class = "UISegmentedControl"; NJx-RZ-k4L.segmentTitles[1] = "Nej"; ObjectID = "NJx-RZ-k4L"; */
+"NJx-RZ-k4L.segmentTitles[1]" = "Nej";
+
+/* Class = "UIButton"; normalTitle = "Regler och villkor"; ObjectID = "NTC-ll-hXk"; */
+"NTC-ll-hXk.normalTitle" = "Regler och villkor";
+
+/* Class = "UILabel"; text = "Tid"; ObjectID = "Nmm-Hq-h70"; */
+"Nmm-Hq-h70.text" = "Tid";
+
+/* Class = "UINavigationItem"; title = "Karta"; ObjectID = "NnE-y5-9uU"; */
+"NnE-y5-9uU.title" = "Karta";
+
+/* Class = "UIButton"; normalTitle = "Instagram"; ObjectID = "Oh1-px-ERy"; */
+"Oh1-px-ERy.normalTitle" = "Instagram";
+
+/* Class = "UIButton"; normalTitle = "Facebook"; ObjectID = "Onb-9g-HRA"; */
+"Onb-9g-HRA.normalTitle" = "Facebook";
+
+/* Class = "UIButton"; normalTitle = "Nästa"; ObjectID = "PJ6-PY-pdZ"; */
+"PJ6-PY-pdZ.normalTitle" = "Nästa";
+
+/* Class = "UILabel"; text = "Person:"; ObjectID = "PTp-hU-Gao"; */
+"PTp-hU-Gao.text" = "Person:";
+
+/* Class = "UIBarButtonItem"; title = "Tillbaka"; ObjectID = "Pka-SE-3G9"; */
+"Pka-SE-3G9.title" = "Tillbaka";
+
+/* Class = "UIBarButtonItem"; title = "Spara"; ObjectID = "Pvl-ZA-4KN"; */
+"Pvl-ZA-4KN.title" = "Spara";
+
+/* Class = "UILabel"; text = "Nej"; ObjectID = "Q85-ia-Gzw"; */
+"Q85-ia-Gzw.text" = "Nej";
+
+/* Class = "UIButton"; normalTitle = "Träningar"; ObjectID = "QL5-0s-gv6"; */
+"QL5-0s-gv6.normalTitle" = "Träningar";
+
+/* Class = "UILabel"; text = "Vem"; ObjectID = "Qdv-sg-10P"; */
+"Qdv-sg-10P.text" = "Vem";
+
+/* Class = "UIBarButtonItem"; title = "Tillbaka"; ObjectID = "Qe5-Mq-9CQ"; */
+"Qe5-Mq-9CQ.title" = "Tillbaka";
+
+/* Class = "UIButton"; normalTitle = "Glömt lösenord?"; ObjectID = "Qng-gc-fWW"; */
+"Qng-gc-fWW.normalTitle" = "Glömt lösenord?";
+
+/* Class = "UILabel"; text = "Upprepa lösenord:"; ObjectID = "R8i-dd-xqO"; */
+"R8i-dd-xqO.text" = "Upprepa lösenord:";
+
+/* Class = "UIButton"; normalTitle = "Djuraffärer"; ObjectID = "RaL-zw-Nfe"; */
+"RaL-zw-Nfe.normalTitle" = "Djuraffärer";
+
+/* Class = "UILabel"; text = "Inställningar"; ObjectID = "RiN-SJ-wk1"; */
+"RiN-SJ-wk1.text" = "Inställningar";
+
+/* Class = "UIButton"; normalTitle = "Spara ändringar"; ObjectID = "SNc-od-Tdi"; */
+"SNc-od-Tdi.normalTitle" = "Spara ändringar";
+
+/* Class = "UILabel"; text = "Historik"; ObjectID = "Sd6-OY-YKc"; */
+"Sd6-OY-YKc.text" = "Historik";
+
+/* Class = "UILabel"; text = "Dogwalk"; ObjectID = "Sgu-dY-KZp"; */
+"Sgu-dY-KZp.text" = "Dogwalk";
+
+/* Class = "UIButton"; normalTitle = "Logga ut"; ObjectID = "TiN-xF-RDZ"; */
+"TiN-xF-RDZ.normalTitle" = "Logga ut";
+
+/* Class = "UIButton"; normalTitle = "Logga in"; ObjectID = "Uf1-Md-ZIS"; */
+"Uf1-Md-ZIS.normalTitle" = "Logga in";
+
+/* Class = "UIButton"; normalTitle = "Veterinärsintyg"; ObjectID = "UgW-ef-cfA"; */
+"UgW-ef-cfA.normalTitle" = "Veterinärsintyg";
+
+/* Class = "UILabel"; text = "Tid:"; ObjectID = "W0H-yp-w4d"; */
+"W0H-yp-w4d.text" = "Tid:";
+
+/* Class = "UIBarButtonItem"; title = "Tillbaka"; ObjectID = "W6A-o8-XHU"; */
+"W6A-o8-XHU.title" = "Tillbaka";
+
+/* Class = "UILabel"; text = "Inställningar"; ObjectID = "W7Y-c0-BeT"; */
+"W7Y-c0-BeT.text" = "Inställningar";
+
+/* Class = "UILabel"; text = "Datum"; ObjectID = "Y8u-AA-hex"; */
+"Y8u-AA-hex.text" = "Datum";
+
+/* Class = "UILabel"; text = "Datum:"; ObjectID = "YD1-fs-uXJ"; */
+"YD1-fs-uXJ.text" = "Datum:";
+
+/* Class = "UILabel"; text = "Historik"; ObjectID = "YG4-64-y9s"; */
+"YG4-64-y9s.text" = "Historik";
+
+/* Class = "UIBarButtonItem"; title = "Tillbaka"; ObjectID = "YQU-SO-dkB"; */
+"YQU-SO-dkB.title" = "Tillbaka";
+
+/* Class = "UILabel"; text = "Inställningar"; ObjectID = "Zqf-6d-Wa3"; */
+"Zqf-6d-Wa3.text" = "Inställningar";
+
+/* Class = "UIButton"; normalTitle = "Spara"; ObjectID = "ZuC-iy-asj"; */
+"ZuC-iy-asj.normalTitle" = "Spara";
+
+/* Class = "UILabel"; text = "verNr"; ObjectID = "a3v-3z-Arj"; */
+"a3v-3z-Arj.text" = "verNr";
+
+/* Class = "UILabel"; text = "Dogwalk"; ObjectID = "aft-oF-NV1"; */
+"aft-oF-NV1.text" = "Dogwalk";
+
+/* Class = "UIButton"; normalTitle = "Spara"; ObjectID = "ajL-5Q-vxM"; */
+"ajL-5Q-vxM.normalTitle" = "Spara";
+
+/* Class = "UILabel"; text = "Historik"; ObjectID = "arL-Hf-P6c"; */
+"arL-Hf-P6c.text" = "Historik";
+
+/* Class = "UILabel"; text = "km"; ObjectID = "bN6-2q-Qwy"; */
+"bN6-2q-Qwy.text" = "km";
+
+/* Class = "UILabel"; text = "Hundpass"; ObjectID = "bPH-kC-ih0"; */
+"bPH-kC-ih0.text" = "Hundpass";
+
+/* Class = "UISegmentedControl"; c0r-xI-afb.segmentTitles[0] = "Visa lösenord"; ObjectID = "c0r-xI-afb"; */
+"c0r-xI-afb.segmentTitles[0]" = "Visa lösenord";
+
+/* Class = "UISegmentedControl"; c0r-xI-afb.segmentTitles[1] = "Göm lösenord"; ObjectID = "c0r-xI-afb"; */
+"c0r-xI-afb.segmentTitles[1]" = "Göm lösenord";
+
+/* Class = "UILabel"; text = "Hund:"; ObjectID = "cFj-hC-xww"; */
+"cFj-hC-xww.text" = "Hund:";
+
+/* Class = "UILabel"; text = "00:00:00"; ObjectID = "cFl-gB-hXs"; */
+"cFl-gB-hXs.text" = "00:00:00";
+
+/* Class = "UINavigationItem"; title = "Min profil"; ObjectID = "cQf-7e-SLR"; */
+"cQf-7e-SLR.title" = "Min profil";
+
+/* Class = "UIButton"; normalTitle = "Nästa"; ObjectID = "cUv-lB-i5v"; */
+"cUv-lB-i5v.normalTitle" = "Nästa";
+
+/* Class = "UIButton"; normalTitle = "Viktkontroll"; ObjectID = "clC-hQ-hbt"; */
+"clC-hQ-hbt.normalTitle" = "Viktkontroll";
+
+/* Class = "UILabel"; text = "Historik"; ObjectID = "eMt-9K-wE8"; */
+"eMt-9K-wE8.text" = "Historik";
+
+/* Class = "UIBarButtonItem"; title = "Tillbaka"; ObjectID = "g0D-a3-iPE"; */
+"g0D-a3-iPE.title" = "Tillbaka";
+
+/* Class = "UINavigationItem"; title = "Visa rad"; ObjectID = "gZz-we-RuM"; */
+"gZz-we-RuM.title" = "Visa rad";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "hcO-Y4-GZN"; */
+"hcO-Y4-GZN.normalTitle" = "Login";
+
+/* Class = "UILabel"; text = "Hundpass"; ObjectID = "hm2-gs-fM9"; */
+"hm2-gs-fM9.text" = "Hundpass";
+
+/* Class = "UIButton"; normalTitle = "Hundskolan"; ObjectID = "iBK-P8-6Ha"; */
+"iBK-P8-6Ha.normalTitle" = "Hundskolan";
+
+/* Class = "UILabel"; text = "00:00:00"; ObjectID = "ike-p5-HmE"; */
+"ike-p5-HmE.text" = "00:00:00";
+
+/* Class = "UINavigationItem"; title = "Hundpass"; ObjectID = "j9F-GC-5dc"; */
+"j9F-GC-5dc.title" = "Hundpass";
+
+/* Class = "UIBarButtonItem"; title = "Spara"; ObjectID = "jPJ-Xp-Yhg"; */
+"jPJ-Xp-Yhg.title" = "Spara";
+
+/* Class = "UIBarButtonItem"; title = "Tillbaka"; ObjectID = "jYF-aH-JX3"; */
+"jYF-aH-JX3.title" = "Tillbaka";
+
+/* Class = "UILabel"; text = "Lösenord:"; ObjectID = "kDi-3o-ZLB"; */
+"kDi-3o-ZLB.text" = "Lösenord:";
+
+/* Class = "UIButton"; normalTitle = "Dokumentation"; ObjectID = "l7U-Sl-PE3"; */
+"l7U-Sl-PE3.normalTitle" = "Dokumentation";
+
+/* Class = "UINavigationItem"; title = "Ange personer"; ObjectID = "ljg-3i-ve4"; */
+"ljg-3i-ve4.title" = "Ange personer";
+
+/* Class = "UILabel"; text = "Nytt lösenord:"; ObjectID = "moV-xo-Ke4"; */
+"moV-xo-Ke4.text" = "Nytt lösenord:";
+
+/* Class = "UIBarButtonItem"; title = "Tillbaka"; ObjectID = "mrK-ay-RL1"; */
+"mrK-ay-RL1.title" = "Tillbaka";
+
+/* Class = "UILabel"; text = "Tid"; ObjectID = "nAj-9p-cIg"; */
+"nAj-9p-cIg.text" = "Tid";
+
+/* Class = "UILabel"; text = "Upprepa lösenord:"; ObjectID = "nGM-an-tlJ"; */
+"nGM-an-tlJ.text" = "Upprepa lösenord:";
+
+/* Class = "UIButton"; normalTitle = "Tävlingar"; ObjectID = "nsG-2i-eyM"; */
+"nsG-2i-eyM.normalTitle" = "Tävlingar";
+
+/* Class = "UIButton"; normalTitle = "Vaccinationsintyg"; ObjectID = "p8V-1v-1K9"; */
+"p8V-1v-1K9.normalTitle" = "Vaccinationsintyg";
+
+/* Class = "UILabel"; text = "Person:"; ObjectID = "pG4-l9-WQQ"; */
+"pG4-l9-WQQ.text" = "Person:";
+
+/* Class = "UILabel"; text = "Historik"; ObjectID = "pQD-Q5-vk7"; */
+"pQD-Q5-vk7.text" = "Historik";
+
+/* Class = "UIBarButtonItem"; title = "Tillbaka"; ObjectID = "pmO-sO-iYE"; */
+"pmO-sO-iYE.title" = "Tillbaka";
+
+/* Class = "UILabel"; text = "Person:"; ObjectID = "q50-8W-Plf"; */
+"q50-8W-Plf.text" = "Person:";
+
+/* Class = "UILabel"; text = "Dusch / bad"; ObjectID = "qIC-zH-xs8"; */
+"qIC-zH-xs8.text" = "Dusch / bad";
+
+/* Class = "UILabel"; text = "Promenad"; ObjectID = "r5g-Ft-oux"; */
+"r5g-Ft-oux.text" = "Promenad";
+
+/* Class = "UILabel"; text = "Action"; ObjectID = "rdq-Z9-C1m"; */
+"rdq-Z9-C1m.text" = "Action";
+
+/* Class = "UIButton"; normalTitle = "Försäkringsbrev"; ObjectID = "sXH-9l-VGQ"; */
+"sXH-9l-VGQ.normalTitle" = "Försäkringsbrev";
+
+/* Class = "UILabel"; text = "Person"; ObjectID = "tfW-wM-VcG"; */
+"tfW-wM-VcG.text" = "Person";
+
+/* Class = "UINavigationItem"; title = "Historik"; ObjectID = "tlZ-US-zbA"; */
+"tlZ-US-zbA.title" = "Historik";
+
+/* Class = "UIBarButtonItem"; title = "Tillbaka"; ObjectID = "tpp-7j-ZJe"; */
+"tpp-7j-ZJe.title" = "Tillbaka";
+
+/* Class = "UILabel"; text = "Hund:"; ObjectID = "tq2-DN-ZML"; */
+"tq2-DN-ZML.text" = "Hund:";
+
+/* Class = "UINavigationItem"; title = "Socialt"; ObjectID = "u1J-k3-uCd"; */
+"u1J-k3-uCd.title" = "Socialt";
+
+/* Class = "UISegmentedControl"; uLc-ce-iCV.segmentTitles[0] = "Satellit"; ObjectID = "uLc-ce-iCV"; */
+"uLc-ce-iCV.segmentTitles[0]" = "Satellit";
+
+/* Class = "UISegmentedControl"; uLc-ce-iCV.segmentTitles[1] = "Standard"; ObjectID = "uLc-ce-iCV"; */
+"uLc-ce-iCV.segmentTitles[1]" = "Standard";
+
+/* Class = "UILabel"; text = "Vad gjorde hunden?"; ObjectID = "vat-fi-IWz"; */
+"vat-fi-IWz.text" = "Vad gjorde hunden?";
+
+/* Class = "UINavigationItem"; title = "Inställningar"; ObjectID = "w6l-eL-mB5"; */
+"w6l-eL-mB5.title" = "Inställningar";
+
+/* Class = "UINavigationItem"; title = "Poänglista"; ObjectID = "wIj-KQ-bPC"; */
+"wIj-KQ-bPC.title" = "Poänglista";
+
+/* Class = "UILabel"; text = "Poäng"; ObjectID = "wUt-ez-JG4"; */
+"wUt-ez-JG4.text" = "Poäng";
+
+/* Class = "UILabel"; text = "Dogwalk"; ObjectID = "xMN-hX-Yo7"; */
+"xMN-hX-Yo7.text" = "Dogwalk";
+
+/* Class = "UILabel"; text = "Inställningar"; ObjectID = "xWc-kp-e1P"; */
+"xWc-kp-e1P.text" = "Inställningar";
+
+/* Class = "UILabel"; text = "Person:"; ObjectID = "y93-h3-Ed3"; */
+"y93-h3-Ed3.text" = "Person:";
+
+/* Class = "UILabel"; text = "Vem"; ObjectID = "yxY-1p-tsd"; */
+"yxY-1p-tsd.text" = "Vem";
+
+/* Class = "UILabel"; text = "Inställningar"; ObjectID = "zIY-69-cmR"; */
+"zIY-69-cmR.text" = "Inställningar";
+
+/* Class = "UIBarButtonItem"; title = "Tillbaka"; ObjectID = "zZy-AT-f4S"; */
+"zZy-AT-f4S.title" = "Tillbaka";
+
+/* Class = "UILabel"; text = "Poäng"; ObjectID = "za5-EH-3G0"; */
+"za5-EH-3G0.text" = "Poäng";
+
+/* Class = "UILabel"; text = "Dogwalk"; ObjectID = "ztw-sj-D9w"; */
+"ztw-sj-D9w.text" = "Dogwalk";

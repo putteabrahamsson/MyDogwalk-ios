@@ -1,0 +1,676 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 51;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		00017EFE221EED9100BC90AD /* DogwalkViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00017EFD221EED9100BC90AD /* DogwalkViewController.swift */; };
+		00017F0D221EF1D100BC90AD /* Signup-ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00017F09221EF1D000BC90AD /* Signup-ViewController.swift */; };
+		00017F0E221EF1D100BC90AD /* Login-ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00017F0A221EF1D000BC90AD /* Login-ViewController.swift */; };
+		00017F16221EF26200BC90AD /* DogViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00017F15221EF26200BC90AD /* DogViewController.swift */; };
+		00017F1F221F11A500BC90AD /* HistoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00017F1E221F11A500BC90AD /* HistoryViewController.swift */; };
+		00017F21221F13C500BC90AD /* History-List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00017F20221F13C500BC90AD /* History-List.swift */; };
+		00017F23221F14E200BC90AD /* HistoryCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00017F22221F14E200BC90AD /* HistoryCell.swift */; };
+		0007620022A42020000D3567 /* ViewNoteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 000761FF22A42020000D3567 /* ViewNoteViewController.swift */; };
+		0007620422A56F9D000D3567 /* DobViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0007620322A56F9D000D3567 /* DobViewController.swift */; };
+		000985572236D28E00740F39 /* ScoreCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 000985562236D28E00740F39 /* ScoreCell.swift */; };
+		000985592236D29500740F39 /* Score-List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 000985582236D29500740F39 /* Score-List.swift */; };
+		000B72A2223163BE00A01E04 /* ForgotPassViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 000B72A1223163BE00A01E04 /* ForgotPassViewController.swift */; };
+		000B72A422317F8500A01E04 /* ChangePassViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 000B72A322317F8500A01E04 /* ChangePassViewController.swift */; };
+		000C5BB522B25284004960CF /* ViewMapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 000C5BB422B25284004960CF /* ViewMapViewController.swift */; };
+		000C5BB722B263B7004960CF /* ViewImgViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 000C5BB622B263B7004960CF /* ViewImgViewController.swift */; };
+		000C5BB922B26436004960CF /* ViewImgTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 000C5BB822B26436004960CF /* ViewImgTableViewCell.swift */; };
+		000C76AF22A40366003883EA /* NoteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 000C76AE22A40366003883EA /* NoteViewController.swift */; };
+		000DDE4D22351B76001E4E9D /* MyProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 000DDE4C22351B76001E4E9D /* MyProfileViewController.swift */; };
+		0018F785228D561300498AD5 /* ChooseTimerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0018F784228D561300498AD5 /* ChooseTimerViewController.swift */; };
+		00195F9022A04DEF008B11BE /* MoreViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00195F8F22A04DEF008B11BE /* MoreViewController.swift */; };
+		00195F9222A04F4D008B11BE /* MoreTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00195F9122A04F4D008B11BE /* MoreTableViewCell.swift */; };
+		0019A21622B6849D003EF078 /* PremiumViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0019A21522B6849C003EF078 /* PremiumViewController.swift */; };
+		0019A21A22B684ED003EF078 /* PremiumTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0019A21922B684ED003EF078 /* PremiumTableViewCell.swift */; };
+		001CB65D22C50A6B00CAAD72 /* PremHisViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001CB65C22C50A6B00CAAD72 /* PremHisViewController.swift */; };
+		001CB65F22C50A7D00CAAD72 /* NewHealthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001CB65E22C50A7D00CAAD72 /* NewHealthViewController.swift */; };
+		001CB66322C519C200CAAD72 /* PremHis-list.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001CB66222C519C200CAAD72 /* PremHis-list.swift */; };
+		001CB66522C51C0900CAAD72 /* PremHisCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001CB66422C51C0900CAAD72 /* PremHisCell.swift */; };
+		0020F43D22F9D9B000BA5D3A /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0020F43C22F9D9B000BA5D3A /* StoreKit.framework */; };
+		0021AF4C22BA48E800C98B67 /* PremImgViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0021AF4B22BA48E800C98B67 /* PremImgViewController.swift */; };
+		0021AF4E22BA491300C98B67 /* PremImgTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0021AF4D22BA491300C98B67 /* PremImgTableViewCell.swift */; };
+		0021AF5022C10BDC00C98B67 /* BasicInfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0021AF4F22C10BDC00C98B67 /* BasicInfoViewController.swift */; };
+		0021AF5222C10C0000C98B67 /* BasicInfoTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0021AF5122C10C0000C98B67 /* BasicInfoTableViewCell.swift */; };
+		0041F9BF225CC44000A5DF70 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0041F9BD225CC44000A5DF70 /* Localizable.strings */; };
+		00499704236C58FF00E22F1F /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 00499703236C58FF00E22F1F /* GoogleService-Info.plist */; };
+		0064A2E8222E916E00D07E45 /* ScoreBoardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0064A2E7222E916E00D07E45 /* ScoreBoardViewController.swift */; };
+		00666069221C652E00F64BEC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 00666067221C652E00F64BEC /* Main.storyboard */; };
+		009D88BE229BEDA200925650 /* PersonViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 009D88BD229BEDA200925650 /* PersonViewController.swift */; };
+		00A5BB0C2223FA9E0094DC2C /* DateTimeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00A5BB0B2223FA9E0094DC2C /* DateTimeViewController.swift */; };
+		00A5BB0E222560CE0094DC2C /* ViewRowViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00A5BB0D222560CE0094DC2C /* ViewRowViewController.swift */; };
+		00A5BB132225A37C0094DC2C /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00A5BB122225A37C0094DC2C /* MapViewController.swift */; };
+		00B3AF1122ABC514004DF805 /* ImageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00B3AF1022ABC514004DF805 /* ImageViewController.swift */; };
+		00B3AF1322AD211F004DF805 /* ImageTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00B3AF1222AD211F004DF805 /* ImageTableViewCell.swift */; };
+		00B6964222983E5D005B3B76 /* AddNewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00B6964122983E5D005B3B76 /* AddNewViewController.swift */; };
+		00B6964422983EE1005B3B76 /* AddNewTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00B6964322983EE1005B3B76 /* AddNewTableViewCell.swift */; };
+		00B69646229842B3005B3B76 /* AddNew-List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00B69645229842B3005B3B76 /* AddNew-List.swift */; };
+		00B6964822984C07005B3B76 /* AddDogViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00B6964722984C07005B3B76 /* AddDogViewController.swift */; };
+		00CC5238221C1ED700A7BA59 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00CC5237221C1ED700A7BA59 /* AppDelegate.swift */; };
+		00CC523A221C1ED700A7BA59 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00CC5239221C1ED700A7BA59 /* ViewController.swift */; };
+		00CC5242221C1ED800A7BA59 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 00CC5241221C1ED800A7BA59 /* Assets.xcassets */; };
+		00CC5245221C1ED800A7BA59 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 00CC5243221C1ED800A7BA59 /* LaunchScreen.storyboard */; };
+		0BFB25988D4DCF4253BF2158 /* Pods_MyDogwalk.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8B387ABE7416A3DA7669B6FF /* Pods_MyDogwalk.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		00017EFD221EED9100BC90AD /* DogwalkViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DogwalkViewController.swift; sourceTree = "<group>"; };
+		00017F09221EF1D000BC90AD /* Signup-ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Signup-ViewController.swift"; sourceTree = "<group>"; };
+		00017F0A221EF1D000BC90AD /* Login-ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Login-ViewController.swift"; sourceTree = "<group>"; };
+		00017F15221EF26200BC90AD /* DogViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DogViewController.swift; path = MyDogwalk/DogViewController.swift; sourceTree = SOURCE_ROOT; };
+		00017F1E221F11A500BC90AD /* HistoryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistoryViewController.swift; sourceTree = "<group>"; };
+		00017F20221F13C500BC90AD /* History-List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "History-List.swift"; sourceTree = "<group>"; };
+		00017F22221F14E200BC90AD /* HistoryCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistoryCell.swift; sourceTree = "<group>"; };
+		000761FF22A42020000D3567 /* ViewNoteViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewNoteViewController.swift; sourceTree = "<group>"; };
+		0007620322A56F9D000D3567 /* DobViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DobViewController.swift; sourceTree = "<group>"; };
+		000985562236D28E00740F39 /* ScoreCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScoreCell.swift; sourceTree = "<group>"; };
+		000985582236D29500740F39 /* Score-List.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Score-List.swift"; sourceTree = "<group>"; };
+		000B72A1223163BE00A01E04 /* ForgotPassViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForgotPassViewController.swift; sourceTree = "<group>"; };
+		000B72A322317F8500A01E04 /* ChangePassViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChangePassViewController.swift; sourceTree = "<group>"; };
+		000C5BB422B25284004960CF /* ViewMapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewMapViewController.swift; sourceTree = "<group>"; };
+		000C5BB622B263B7004960CF /* ViewImgViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewImgViewController.swift; sourceTree = "<group>"; };
+		000C5BB822B26436004960CF /* ViewImgTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewImgTableViewCell.swift; sourceTree = "<group>"; };
+		000C76AE22A40366003883EA /* NoteViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoteViewController.swift; sourceTree = "<group>"; };
+		000DDE4C22351B76001E4E9D /* MyProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyProfileViewController.swift; sourceTree = "<group>"; };
+		000F422C222942E000BE041D /* MyDogwalk.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = MyDogwalk.entitlements; sourceTree = "<group>"; };
+		0018F784228D561300498AD5 /* ChooseTimerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChooseTimerViewController.swift; sourceTree = "<group>"; };
+		00195F8F22A04DEF008B11BE /* MoreViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoreViewController.swift; sourceTree = "<group>"; };
+		00195F9122A04F4D008B11BE /* MoreTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoreTableViewCell.swift; sourceTree = "<group>"; };
+		0019A21522B6849C003EF078 /* PremiumViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PremiumViewController.swift; sourceTree = "<group>"; };
+		0019A21922B684ED003EF078 /* PremiumTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PremiumTableViewCell.swift; sourceTree = "<group>"; };
+		001CB65C22C50A6B00CAAD72 /* PremHisViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PremHisViewController.swift; sourceTree = "<group>"; };
+		001CB65E22C50A7D00CAAD72 /* NewHealthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewHealthViewController.swift; sourceTree = "<group>"; };
+		001CB66222C519C200CAAD72 /* PremHis-list.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PremHis-list.swift"; sourceTree = "<group>"; };
+		001CB66422C51C0900CAAD72 /* PremHisCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PremHisCell.swift; sourceTree = "<group>"; };
+		0020F43C22F9D9B000BA5D3A /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
+		0021AF4B22BA48E800C98B67 /* PremImgViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PremImgViewController.swift; sourceTree = "<group>"; };
+		0021AF4D22BA491300C98B67 /* PremImgTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PremImgTableViewCell.swift; sourceTree = "<group>"; };
+		0021AF4F22C10BDC00C98B67 /* BasicInfoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicInfoViewController.swift; sourceTree = "<group>"; };
+		0021AF5122C10C0000C98B67 /* BasicInfoTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicInfoTableViewCell.swift; sourceTree = "<group>"; };
+		0025ACDC22635CBE00B67FB5 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
+		0041F9B6225CBFED00A5DF70 /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/Main.strings; sourceTree = "<group>"; };
+		0041F9BE225CC44000A5DF70 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Base; path = Base.lproj/Localizable.strings; sourceTree = "<group>"; };
+		0041F9C0225CC44D00A5DF70 /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/Localizable.strings; sourceTree = "<group>"; };
+		0041F9C1225CC45000A5DF70 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		00499703236C58FF00E22F1F /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
+		0064A2E7222E916E00D07E45 /* ScoreBoardViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoreBoardViewController.swift; sourceTree = "<group>"; };
+		00666068221C652E00F64BEC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		009D88BD229BEDA200925650 /* PersonViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonViewController.swift; sourceTree = "<group>"; };
+		00A5BB0B2223FA9E0094DC2C /* DateTimeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateTimeViewController.swift; sourceTree = "<group>"; };
+		00A5BB0D222560CE0094DC2C /* ViewRowViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewRowViewController.swift; sourceTree = "<group>"; };
+		00A5BB122225A37C0094DC2C /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
+		00B3AF1022ABC514004DF805 /* ImageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageViewController.swift; sourceTree = "<group>"; };
+		00B3AF1222AD211F004DF805 /* ImageTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageTableViewCell.swift; sourceTree = "<group>"; };
+		00B6964122983E5D005B3B76 /* AddNewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddNewViewController.swift; sourceTree = "<group>"; };
+		00B6964322983EE1005B3B76 /* AddNewTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddNewTableViewCell.swift; sourceTree = "<group>"; };
+		00B69645229842B3005B3B76 /* AddNew-List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "AddNew-List.swift"; sourceTree = "<group>"; };
+		00B6964722984C07005B3B76 /* AddDogViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddDogViewController.swift; sourceTree = "<group>"; };
+		00CC5234221C1ED700A7BA59 /* MyDogwalk.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyDogwalk.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		00CC5237221C1ED700A7BA59 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		00CC5239221C1ED700A7BA59 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		00CC5241221C1ED800A7BA59 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		00CC5244221C1ED800A7BA59 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		00CC5246221C1ED800A7BA59 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8B387ABE7416A3DA7669B6FF /* Pods_MyDogwalk.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MyDogwalk.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		9A61E208AB85B9C2E1A0557D /* Pods-MyDogwalk.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyDogwalk.release.xcconfig"; path = "Target Support Files/Pods-MyDogwalk/Pods-MyDogwalk.release.xcconfig"; sourceTree = "<group>"; };
+		D45F6D70A59C090388C1E300 /* Pods-MyDogwalk.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyDogwalk.debug.xcconfig"; path = "Target Support Files/Pods-MyDogwalk/Pods-MyDogwalk.debug.xcconfig"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		00CC5231221C1ED700A7BA59 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0BFB25988D4DCF4253BF2158 /* Pods_MyDogwalk.framework in Frameworks */,
+				0020F43D22F9D9B000BA5D3A /* StoreKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		00017F13221EF22A00BC90AD /* Signup & Login */ = {
+			isa = PBXGroup;
+			children = (
+				00017F0A221EF1D000BC90AD /* Login-ViewController.swift */,
+				00017F09221EF1D000BC90AD /* Signup-ViewController.swift */,
+				000B72A1223163BE00A01E04 /* ForgotPassViewController.swift */,
+			);
+			path = "Signup & Login";
+			sourceTree = "<group>";
+		};
+		00017F14221EF23300BC90AD /* Dogwalk Actions */ = {
+			isa = PBXGroup;
+			children = (
+				00017EFD221EED9100BC90AD /* DogwalkViewController.swift */,
+				0007620322A56F9D000D3567 /* DobViewController.swift */,
+				00017F15221EF26200BC90AD /* DogViewController.swift */,
+				00A5BB0B2223FA9E0094DC2C /* DateTimeViewController.swift */,
+				00A5BB122225A37C0094DC2C /* MapViewController.swift */,
+				000C76AE22A40366003883EA /* NoteViewController.swift */,
+				00B3AF1022ABC514004DF805 /* ImageViewController.swift */,
+				00B3AF1222AD211F004DF805 /* ImageTableViewCell.swift */,
+			);
+			path = "Dogwalk Actions";
+			sourceTree = "<group>";
+		};
+		00017F1D221F118800BC90AD /* History */ = {
+			isa = PBXGroup;
+			children = (
+				00017F1E221F11A500BC90AD /* HistoryViewController.swift */,
+				00017F20221F13C500BC90AD /* History-List.swift */,
+				00017F22221F14E200BC90AD /* HistoryCell.swift */,
+				000985562236D28E00740F39 /* ScoreCell.swift */,
+				000985582236D29500740F39 /* Score-List.swift */,
+				00A5BB0D222560CE0094DC2C /* ViewRowViewController.swift */,
+				0064A2E7222E916E00D07E45 /* ScoreBoardViewController.swift */,
+				000761FF22A42020000D3567 /* ViewNoteViewController.swift */,
+				000C5BB422B25284004960CF /* ViewMapViewController.swift */,
+				000C5BB622B263B7004960CF /* ViewImgViewController.swift */,
+				000C5BB822B26436004960CF /* ViewImgTableViewCell.swift */,
+			);
+			path = History;
+			sourceTree = "<group>";
+		};
+		0019A21822B684C6003EF078 /* Premium actions */ = {
+			isa = PBXGroup;
+			children = (
+				0019A21522B6849C003EF078 /* PremiumViewController.swift */,
+				0019A21922B684ED003EF078 /* PremiumTableViewCell.swift */,
+				0021AF4B22BA48E800C98B67 /* PremImgViewController.swift */,
+				0021AF4D22BA491300C98B67 /* PremImgTableViewCell.swift */,
+				0021AF4F22C10BDC00C98B67 /* BasicInfoViewController.swift */,
+				0021AF5122C10C0000C98B67 /* BasicInfoTableViewCell.swift */,
+				001CB65E22C50A7D00CAAD72 /* NewHealthViewController.swift */,
+				001CB65C22C50A6B00CAAD72 /* PremHisViewController.swift */,
+				001CB66222C519C200CAAD72 /* PremHis-list.swift */,
+				001CB66422C51C0900CAAD72 /* PremHisCell.swift */,
+			);
+			path = "Premium actions";
+			sourceTree = "<group>";
+		};
+		00A5BB0F222589C10094DC2C /* Settings */ = {
+			isa = PBXGroup;
+			children = (
+				000B72A322317F8500A01E04 /* ChangePassViewController.swift */,
+				000DDE4C22351B76001E4E9D /* MyProfileViewController.swift */,
+				0018F784228D561300498AD5 /* ChooseTimerViewController.swift */,
+				00B6964122983E5D005B3B76 /* AddNewViewController.swift */,
+				00B6964322983EE1005B3B76 /* AddNewTableViewCell.swift */,
+				00B69645229842B3005B3B76 /* AddNew-List.swift */,
+				00B6964722984C07005B3B76 /* AddDogViewController.swift */,
+				009D88BD229BEDA200925650 /* PersonViewController.swift */,
+				00195F8F22A04DEF008B11BE /* MoreViewController.swift */,
+				00195F9122A04F4D008B11BE /* MoreTableViewCell.swift */,
+			);
+			path = Settings;
+			sourceTree = "<group>";
+		};
+		00CC522B221C1ED700A7BA59 = {
+			isa = PBXGroup;
+			children = (
+				00CC5236221C1ED700A7BA59 /* MyDogwalk */,
+				00CC5235221C1ED700A7BA59 /* Products */,
+				3CE87BCA17C146C9303FD667 /* Pods */,
+				6A5063C3EB1D1375610A0D6F /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		00CC5235221C1ED700A7BA59 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				00CC5234221C1ED700A7BA59 /* MyDogwalk.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		00CC5236221C1ED700A7BA59 /* MyDogwalk */ = {
+			isa = PBXGroup;
+			children = (
+				000F422C222942E000BE041D /* MyDogwalk.entitlements */,
+				00CC5237221C1ED700A7BA59 /* AppDelegate.swift */,
+				00CC5239221C1ED700A7BA59 /* ViewController.swift */,
+				00CC5241221C1ED800A7BA59 /* Assets.xcassets */,
+				00666067221C652E00F64BEC /* Main.storyboard */,
+				00CC5243221C1ED800A7BA59 /* LaunchScreen.storyboard */,
+				00499703236C58FF00E22F1F /* GoogleService-Info.plist */,
+				00CC5246221C1ED800A7BA59 /* Info.plist */,
+				00A5BB0F222589C10094DC2C /* Settings */,
+				00017F1D221F118800BC90AD /* History */,
+				00017F14221EF23300BC90AD /* Dogwalk Actions */,
+				00017F13221EF22A00BC90AD /* Signup & Login */,
+				0019A21822B684C6003EF078 /* Premium actions */,
+				0041F9BD225CC44000A5DF70 /* Localizable.strings */,
+			);
+			path = MyDogwalk;
+			sourceTree = "<group>";
+		};
+		3CE87BCA17C146C9303FD667 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				D45F6D70A59C090388C1E300 /* Pods-MyDogwalk.debug.xcconfig */,
+				9A61E208AB85B9C2E1A0557D /* Pods-MyDogwalk.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		6A5063C3EB1D1375610A0D6F /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				0020F43C22F9D9B000BA5D3A /* StoreKit.framework */,
+				8B387ABE7416A3DA7669B6FF /* Pods_MyDogwalk.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		00CC5233221C1ED700A7BA59 /* MyDogwalk */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 00CC5249221C1ED800A7BA59 /* Build configuration list for PBXNativeTarget "MyDogwalk" */;
+			buildPhases = (
+				24A2A37CB8F39DBE64A6D855 /* [CP] Check Pods Manifest.lock */,
+				00CC5230221C1ED700A7BA59 /* Sources */,
+				00CC5231221C1ED700A7BA59 /* Frameworks */,
+				00CC5232221C1ED700A7BA59 /* Resources */,
+				3C19DE2529530D9B481E2043 /* [CP] Embed Pods Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MyDogwalk;
+			productName = MyDogwalk;
+			productReference = 00CC5234221C1ED700A7BA59 /* MyDogwalk.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		00CC522C221C1ED700A7BA59 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1010;
+				LastUpgradeCheck = 1010;
+				ORGANIZATIONNAME = Putte;
+				TargetAttributes = {
+					00CC5233221C1ED700A7BA59 = {
+						CreatedOnToolsVersion = 10.1;
+						LastSwiftMigration = 1020;
+						SystemCapabilities = {
+							com.apple.BackgroundModes = {
+								enabled = 1;
+							};
+							com.apple.DataProtection = {
+								enabled = 0;
+							};
+							com.apple.InAppPurchase = {
+								enabled = 1;
+							};
+							com.apple.Maps.iOS = {
+								enabled = 0;
+							};
+							com.apple.Push = {
+								enabled = 1;
+							};
+						};
+					};
+				};
+			};
+			buildConfigurationList = 00CC522F221C1ED700A7BA59 /* Build configuration list for PBXProject "MyDogwalk" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+				sv,
+			);
+			mainGroup = 00CC522B221C1ED700A7BA59;
+			productRefGroup = 00CC5235221C1ED700A7BA59 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				00CC5233221C1ED700A7BA59 /* MyDogwalk */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		00CC5232221C1ED700A7BA59 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0041F9BF225CC44000A5DF70 /* Localizable.strings in Resources */,
+				00CC5245221C1ED800A7BA59 /* LaunchScreen.storyboard in Resources */,
+				00499704236C58FF00E22F1F /* GoogleService-Info.plist in Resources */,
+				00CC5242221C1ED800A7BA59 /* Assets.xcassets in Resources */,
+				00666069221C652E00F64BEC /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		24A2A37CB8F39DBE64A6D855 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-MyDogwalk-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		3C19DE2529530D9B481E2043 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-MyDogwalk/Pods-MyDogwalk-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-MyDogwalk/Pods-MyDogwalk-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-MyDogwalk/Pods-MyDogwalk-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		00CC5230221C1ED700A7BA59 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				001CB66522C51C0900CAAD72 /* PremHisCell.swift in Sources */,
+				0064A2E8222E916E00D07E45 /* ScoreBoardViewController.swift in Sources */,
+				000C5BB722B263B7004960CF /* ViewImgViewController.swift in Sources */,
+				0007620422A56F9D000D3567 /* DobViewController.swift in Sources */,
+				000B72A2223163BE00A01E04 /* ForgotPassViewController.swift in Sources */,
+				000C5BB922B26436004960CF /* ViewImgTableViewCell.swift in Sources */,
+				000DDE4D22351B76001E4E9D /* MyProfileViewController.swift in Sources */,
+				001CB66322C519C200CAAD72 /* PremHis-list.swift in Sources */,
+				009D88BE229BEDA200925650 /* PersonViewController.swift in Sources */,
+				001CB65F22C50A7D00CAAD72 /* NewHealthViewController.swift in Sources */,
+				000C76AF22A40366003883EA /* NoteViewController.swift in Sources */,
+				0019A21A22B684ED003EF078 /* PremiumTableViewCell.swift in Sources */,
+				0021AF5022C10BDC00C98B67 /* BasicInfoViewController.swift in Sources */,
+				00A5BB0E222560CE0094DC2C /* ViewRowViewController.swift in Sources */,
+				000985572236D28E00740F39 /* ScoreCell.swift in Sources */,
+				000985592236D29500740F39 /* Score-List.swift in Sources */,
+				00195F9222A04F4D008B11BE /* MoreTableViewCell.swift in Sources */,
+				0007620022A42020000D3567 /* ViewNoteViewController.swift in Sources */,
+				001CB65D22C50A6B00CAAD72 /* PremHisViewController.swift in Sources */,
+				00017F0E221EF1D100BC90AD /* Login-ViewController.swift in Sources */,
+				00017F1F221F11A500BC90AD /* HistoryViewController.swift in Sources */,
+				00B3AF1122ABC514004DF805 /* ImageViewController.swift in Sources */,
+				00B6964422983EE1005B3B76 /* AddNewTableViewCell.swift in Sources */,
+				00017EFE221EED9100BC90AD /* DogwalkViewController.swift in Sources */,
+				00CC523A221C1ED700A7BA59 /* ViewController.swift in Sources */,
+				00B3AF1322AD211F004DF805 /* ImageTableViewCell.swift in Sources */,
+				00195F9022A04DEF008B11BE /* MoreViewController.swift in Sources */,
+				0021AF4E22BA491300C98B67 /* PremImgTableViewCell.swift in Sources */,
+				000C5BB522B25284004960CF /* ViewMapViewController.swift in Sources */,
+				00CC5238221C1ED700A7BA59 /* AppDelegate.swift in Sources */,
+				0021AF4C22BA48E800C98B67 /* PremImgViewController.swift in Sources */,
+				00B6964222983E5D005B3B76 /* AddNewViewController.swift in Sources */,
+				0018F785228D561300498AD5 /* ChooseTimerViewController.swift in Sources */,
+				00017F23221F14E200BC90AD /* HistoryCell.swift in Sources */,
+				0021AF5222C10C0000C98B67 /* BasicInfoTableViewCell.swift in Sources */,
+				00B6964822984C07005B3B76 /* AddDogViewController.swift in Sources */,
+				00017F0D221EF1D100BC90AD /* Signup-ViewController.swift in Sources */,
+				00B69646229842B3005B3B76 /* AddNew-List.swift in Sources */,
+				00017F16221EF26200BC90AD /* DogViewController.swift in Sources */,
+				00017F21221F13C500BC90AD /* History-List.swift in Sources */,
+				0019A21622B6849D003EF078 /* PremiumViewController.swift in Sources */,
+				00A5BB0C2223FA9E0094DC2C /* DateTimeViewController.swift in Sources */,
+				000B72A422317F8500A01E04 /* ChangePassViewController.swift in Sources */,
+				00A5BB132225A37C0094DC2C /* MapViewController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		0041F9BD225CC44000A5DF70 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				0041F9BE225CC44000A5DF70 /* Base */,
+				0041F9C0225CC44D00A5DF70 /* sv */,
+				0041F9C1225CC45000A5DF70 /* en */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+		00666067221C652E00F64BEC /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				00666068221C652E00F64BEC /* Base */,
+				0041F9B6225CBFED00A5DF70 /* sv */,
+				0025ACDC22635CBE00B67FB5 /* en */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		00CC5243221C1ED800A7BA59 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				00CC5244221C1ED800A7BA59 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		00CC5247221C1ED800A7BA59 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		00CC5248221C1ED800A7BA59 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		00CC524A221C1ED800A7BA59 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = D45F6D70A59C090388C1E300 /* Pods-MyDogwalk.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = MyDogwalk/MyDogwalk.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 38BYFQ6V29;
+				INFOPLIST_FILE = MyDogwalk/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 2.0.9;
+				PRODUCT_BUNDLE_IDENTIFIER = se.MyDogwalk;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		00CC524B221C1ED800A7BA59 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9A61E208AB85B9C2E1A0557D /* Pods-MyDogwalk.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = MyDogwalk/MyDogwalk.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 38BYFQ6V29;
+				INFOPLIST_FILE = MyDogwalk/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 2.0.9;
+				PRODUCT_BUNDLE_IDENTIFIER = se.MyDogwalk;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		00CC522F221C1ED700A7BA59 /* Build configuration list for PBXProject "MyDogwalk" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				00CC5247221C1ED800A7BA59 /* Debug */,
+				00CC5248221C1ED800A7BA59 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		00CC5249221C1ED800A7BA59 /* Build configuration list for PBXNativeTarget "MyDogwalk" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				00CC524A221C1ED800A7BA59 /* Debug */,
+				00CC524B221C1ED800A7BA59 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 00CC522C221C1ED700A7BA59 /* Project object */;
+}

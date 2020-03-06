@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="MyDogwalk/Base.lproj/LaunchScreen.storyboard" source-language="en" datatype="plaintext" target-language="da">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.1" build-num="10B61"/>
+    </header>
+    <body>
+      <trans-unit id="3IV-4T-ciB.text">
+        <source>Copyright © MyDogwalk 2019</source>
+        <target>Copyright © MyDogwalk 2019</target>
+        <note>Class = "UILabel"; text = "Copyright © MyDogwalk 2019"; ObjectID = "3IV-4T-ciB";</note>
+      </trans-unit>
+      <trans-unit id="SCL-57-ONB.text">
+        <source>www.MyDogwalk.se</source>
+        <target>www.MyDogwalk.se</target>
+        <note>Class = "UILabel"; text = "www.MyDogwalk.se"; ObjectID = "SCL-57-ONB";</note>
+      </trans-unit>
+      <trans-unit id="kra-cK-lOT.text">
+        <source>Hej! Jag heter Putte!</source>
+        <target>Hej! Jag heter Putte!</target>
+        <note>Class = "UILabel"; text = "Hej! Jag heter Putte!"; ObjectID = "kra-cK-lOT";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="MyDogwalk/Base.lproj/Main.storyboard" source-language="en" datatype="plaintext" target-language="da">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.1" build-num="10B61"/>
+    </header>
+    <body>
+      <trans-unit id="0U6-yu-XCF.placeholder">
+        <source>Hund 1</source>
+        <target>Hund 1</target>
+        <note>Class = "UITextField"; placeholder = "Hund 1"; ObjectID = "0U6-yu-XCF";</note>
+      </trans-unit>
+      <trans-unit id="2Mc-1O-SrP.placeholder">
+        <source>Namn 6</source>
+        <target>Namn 6</target>
+        <note>Class = "UITextField"; placeholder = "Namn 6"; ObjectID = "2Mc-1O-SrP";</note>
+      </trans-unit>
+      <trans-unit id="2mC-6t-VeC.normalTitle">
+        <source>Uppgradera</source>
+        <target>Uppgradera</target>
+        <note>Class = "UIButton"; normalTitle = "Uppgradera"; ObjectID = "2mC-6t-VeC";</note>
+      </trans-unit>
+      <trans-unit id="3D4-ZV-NIn.text">
+        <source>Uppdatera lista</source>
+        <target>Uppdatera lista</target>
+        <note>Class = "UILabel"; text = "Uppdatera lista"; ObjectID = "3D4-ZV-NIn";</note>
+      </trans-unit>
+      <trans-unit id="4Cs-Fq-TR6.placeholder">
+        <source>Email</source>
+        <target>Email</target>
+        <note>Class = "UITextField"; placeholder = "Email"; ObjectID = "4Cs-Fq-TR6";</note>
+      </trans-unit>
+      <trans-unit id="4VJ-gO-K0d.title">
+        <source>Item</source>
+        <target>Item</target>
+        <note>Class = "UIBarButtonItem"; title = "Item"; ObjectID = "4VJ-gO-K0d";</note>
+      </trans-unit>
+      <trans-unit id="5LW-Rj-n4s.normalTitle">
+        <source>Ändra lösenord</source>
+        <target>Ändra lösenord</target>
+        <note>Class = "UIButton"; normalTitle = "Ändra lösenord"; ObjectID = "5LW-Rj-n4s";</note>
+      </trans-unit>
+      <trans-unit id="5be-Be-tOH.title">
+        <source>Tillbaka</source>
+        <target>Tillbaka</target>
+        <note>Class = "UIBarButtonItem"; title = "Tillbaka"; ObjectID = "5be-Be-tOH";</note>
+      </trans-unit>
+      <trans-unit id="5dV-PE-XkZ.normalTitle">
+        <source>Återställ</source>
+        <target>Återställ</target>
+        <note>Class = "UIButton"; normalTitle = "Återställ"; ObjectID = "5dV-PE-XkZ";</note>
+      </trans-unit>
+      <trans-unit id="5vU-Yk-phA.placeholder">
+        <source>Email</source>
+        <target>Email</target>
+        <note>Class = "UITextField"; placeholder = "Email"; ObjectID = "5vU-Yk-phA";</note>
+      </trans-unit>
+      <trans-unit id="6Hw-Jt-YVX.normalTitle">
+        <source>Registrera</source>
+        <target>Registrera</target>
+        <note>Class = "UIButton"; normalTitle = "Registrera"; ObjectID = "6Hw-Jt-YVX";</note>
+      </trans-unit>
+      <trans-unit id="7IQ-M2-4n9.title">
+        <source>MyDogwalk</source>
+        <target>MyDogwalk</target>
+        <note>Class = "UINavigationItem"; title = "MyDogwalk"; ObjectID = "7IQ-M2-4n9";</note>
+      </trans-unit>
+      <trans-unit id="8nM-Pa-FyR.text">
+        <source>Hund</source>
+        <target>Hund</target>
+        <note>Class = "UILabel"; text = "Hund"; ObjectID = "8nM-Pa-FyR";</note>
+      </trans-unit>
+      <trans-unit id="9Fu-eB-1ia.title">
+        <source>Välj hund</source>
+        <target>Välj hund</target>
+        <note>Class = "UINavigationItem"; title = "Välj hund"; ObjectID = "9Fu-eB-1ia";</note>
+      </trans-unit>
+      <trans-unit id="9H1-XS-nVD.placeholder">
+        <source>Hund 2</source>
+        <target>Hund 2</target>
+        <note>Class = "UITextField"; placeholder = "Hund 2"; ObjectID = "9H1-XS-nVD";</note>
+      </trans-unit>
+      <trans-unit id="9HK-zw-nQy.title">
+        <source>Tillbaka</source>
+        <target>Tillbaka</target>
+        <note>Class = "UIBarButtonItem"; title = "Tillbaka"; ObjectID = "9HK-zw-nQy";</note>
+      </trans-unit>
+      <trans-unit id="010-4O-Z3B.normalTitle">
+        <source>Registrera</source>
+        <target>Registrera</target>
+        <note>Class = "UIButton"; normalTitle = "Registrera"; ObjectID = "010-4O-Z3B";</note>
+      </trans-unit>
+      <trans-unit id="29c-6d-wk7.placeholder">
+        <source>Email</source>
+        <target>Email</target>
+        <note>Class = "UITextField"; placeholder = "Email"; ObjectID = "29c-6d-wk7";</note>
+      </trans-unit>
+      <trans-unit id="AoL-i0-4IR.title">
+        <source>Registrera</source>
+        <target>Registrera</target>
+        <note>Class = "UINavigationItem"; title = "Registrera"; ObjectID = "AoL-i0-4IR";</note>
+      </trans-unit>
+      <trans-unit id="DJA-QA-bFt.title">
+        <source>Tillbaka</source>
+        <target>Tillbaka</target>
+        <note>Class = "UIBarButtonItem"; title = "Tillbaka"; ObjectID = "DJA-QA-bFt";</note>
+      </trans-unit>
+      <trans-unit id="E2x-Gx-I58.title">
+        <source>Logga in</source>
+        <target>Logga in</target>
+        <note>Class = "UINavigationItem"; title = "Logga in"; ObjectID = "E2x-Gx-I58";</note>
+      </trans-unit>
+      <trans-unit id="ECS-1j-2GA.text">
+        <source>Välj person:</source>
+        <target>Välj person:</target>
+        <note>Class = "UILabel"; text = "Välj person:"; ObjectID = "ECS-1j-2GA";</note>
+      </trans-unit>
+      <trans-unit id="Eyu-GR-NC7.segmentTitles[0]">
+        <source>Satellit</source>
+        <target>Satellit</target>
+        <note>Class = "UISegmentedControl"; Eyu-GR-NC7.segmentTitles[0] = "Satellit"; ObjectID = "Eyu-GR-NC7";</note>
+      </trans-unit>
+      <trans-unit id="Eyu-GR-NC7.segmentTitles[1]">
+        <source>Standard</source>
+        <target>Standard</target>
+        <note>Class = "UISegmentedControl"; Eyu-GR-NC7.segmentTitles[1] = "Standard"; ObjectID = "Eyu-GR-NC7";</note>
+      </trans-unit>
+      <trans-unit id="FTd-5e-4MA.text">
+        <source>0.0 km</source>
+        <target>0.0 km</target>
+        <note>Class = "UILabel"; text = "0.0 km"; ObjectID = "FTd-5e-4MA";</note>
+      </trans-unit>
+      <trans-unit id="G7i-zl-4sD.title">
+        <source>Ange hundar</source>
+        <target>Ange hundar</target>
+        <note>Class = "UINavigationItem"; title = "Ange hundar"; ObjectID = "G7i-zl-4sD";</note>
+      </trans-unit>
+      <trans-unit id="GJS-jG-Pnh.text">
+        <source>Datum</source>
+        <target>Datum</target>
+        <note>Class = "UILabel"; text = "Datum"; ObjectID = "GJS-jG-Pnh";</note>
+      </trans-unit>
+      <trans-unit id="GeI-Ji-adq.title">
+        <source>Välj Datum</source>
+        <target>Välj Datum</target>
+        <note>Class = "UINavigationItem"; title = "Välj Datum"; ObjectID = "GeI-Ji-adq";</note>
+      </trans-unit>
+      <trans-unit id="Hf8-UO-Cgr.normalTitle">
+        <source>Registrera</source>
+        <target>Registrera</target>
+        <note>Class = "UIButton"; normalTitle = "Registrera"; ObjectID = "Hf8-UO-Cgr";</note>
+      </trans-unit>
+      <trans-unit id="INf-oV-Xoz.text">
+        <source>Välj hund:</source>
+        <target>Välj hund:</target>
+        <note>Class = "UILabel"; text = "Välj hund:"; ObjectID = "INf-oV-Xoz";</note>
+      </trans-unit>
+      <trans-unit id="ItO-2N-dVd.title">
+        <source>Glömt lösenord</source>
+        <target>Glömt lösenord</target>
+        <note>Class = "UINavigationItem"; title = "Glömt lösenord"; ObjectID = "ItO-2N-dVd";</note>
+      </trans-unit>
+      <trans-unit id="JZa-eu-Ei2.title">
+        <source>Ändra lösenord</source>
+        <target>Ändra lösenord</target>
+        <note>Class = "UINavigationItem"; title = "Ändra lösenord"; ObjectID = "JZa-eu-Ei2";</note>
+      </trans-unit>
+      <trans-unit id="Jid-j4-qTf.title">
+        <source>Item</source>
+        <target>Item</target>
+        <note>Class = "UIBarButtonItem"; title = "Item"; ObjectID = "Jid-j4-qTf";</note>
+      </trans-unit>
+      <trans-unit id="LiO-fK-iZb.text">
+        <source>Action</source>
+        <target>Action</target>
+        <note>Class = "UILabel"; text = "Action"; ObjectID = "LiO-fK-iZb";</note>
+      </trans-unit>
+      <trans-unit id="M3q-nD-sec.text">
+        <source>timer</source>
+        <target>timer</target>
+        <note>Class = "UILabel"; text = "timer"; ObjectID = "M3q-nD-sec";</note>
+      </trans-unit>
+      <trans-unit id="MZt-Dw-uvS.text">
+        <source>0.0 km</source>
+        <target>0.0 km</target>
+        <note>Class = "UILabel"; text = "0.0 km"; ObjectID = "MZt-Dw-uvS";</note>
+      </trans-unit>
+      <trans-unit id="Mi8-oD-ahL.text">
+        <source>Fler promenader?</source>
+        <target>Fler promenader?</target>
+        <note>Class = "UILabel"; text = "Fler promenader?"; ObjectID = "Mi8-oD-ahL";</note>
+      </trans-unit>
+      <trans-unit id="N21-wA-Xfu.placeholder">
+        <source>Namn 3</source>
+        <target>Namn 3</target>
+        <note>Class = "UITextField"; placeholder = "Namn 3"; ObjectID = "N21-wA-Xfu";</note>
+      </trans-unit>
+      <trans-unit id="NJx-RZ-k4L.segmentTitles[0]">
+        <source>Ja</source>
+        <target>Ja</target>
+        <note>Class = "UISegmentedControl"; NJx-RZ-k4L.segmentTitles[0] = "Ja"; ObjectID = "NJx-RZ-k4L";</note>
+      </trans-unit>
+      <trans-unit id="NJx-RZ-k4L.segmentTitles[1]">
+        <source>Nej</source>
+        <target>Nej</target>
+        <note>Class = "UISegmentedControl"; NJx-RZ-k4L.segmentTitles[1] = "Nej"; ObjectID = "NJx-RZ-k4L";</note>
+      </trans-unit>
+      <trans-unit id="Nmm-Hq-h70.text">
+        <source>Tid</source>
+        <target>Tid</target>
+        <note>Class = "UILabel"; text = "Tid"; ObjectID = "Nmm-Hq-h70";</note>
+      </trans-unit>
+      <trans-unit id="NnE-y5-9uU.title">
+        <source>Karta</source>
+        <target>Karta</target>
+        <note>Class = "UINavigationItem"; title = "Karta"; ObjectID = "NnE-y5-9uU";</note>
+      </trans-unit>
+      <trans-unit id="PJ6-PY-pdZ.normalTitle">
+        <source>Nästa</source>
+        <target>Nästa</target>
+        <note>Class = "UIButton"; normalTitle = "Nästa"; ObjectID = "PJ6-PY-pdZ";</note>
+      </trans-unit>
+      <trans-unit id="Pka-SE-3G9.title">
+        <source>Tillbaka</source>
+        <target>Tillbaka</target>
+        <note>Class = "UIBarButtonItem"; title = "Tillbaka"; ObjectID = "Pka-SE-3G9";</note>
+      </trans-unit>
+      <trans-unit id="Pvl-ZA-4KN.title">
+        <source>Spara</source>
+        <target>Spara</target>
+        <note>Class = "UIBarButtonItem"; title = "Spara"; ObjectID = "Pvl-ZA-4KN";</note>
+      </trans-unit>
+      <trans-unit id="Qdv-sg-10P.text">
+        <source>Vem</source>
+        <target>Vem</target>
+        <note>Class = "UILabel"; text = "Vem"; ObjectID = "Qdv-sg-10P";</note>
+      </trans-unit>
+      <trans-unit id="Qe5-Mq-9CQ.title">
+        <source>Tillbaka</source>
+        <target>Tillbaka</target>
+        <note>Class = "UIBarButtonItem"; title = "Tillbaka"; ObjectID = "Qe5-Mq-9CQ";</note>
+      </trans-unit>
+      <trans-unit id="Qio-he-byB.title">
+        <source>Item</source>
+        <target>Item</target>
+        <note>Class = "UIBarButtonItem"; title = "Item"; ObjectID = "Qio-he-byB";</note>
+      </trans-unit>
+      <trans-unit id="Qng-gc-fWW.normalTitle">
+        <source>Glömt lösenord?</source>
+        <target>Glömt lösenord?</target>
+        <note>Class = "UIButton"; normalTitle = "Glömt lösenord?"; ObjectID = "Qng-gc-fWW";</note>
+      </trans-unit>
+      <trans-unit id="S1G-vE-CLe.title">
+        <source>Item</source>
+        <target>Item</target>
+        <note>Class = "UIBarButtonItem"; title = "Item"; ObjectID = "S1G-vE-CLe";</note>
+      </trans-unit>
+      <trans-unit id="TiN-xF-RDZ.normalTitle">
+        <source>Logga ut</source>
+        <target>Logga ut</target>
+        <note>Class = "UIButton"; normalTitle = "Logga ut"; ObjectID = "TiN-xF-RDZ";</note>
+      </trans-unit>
+      <trans-unit id="Uf1-Md-ZIS.normalTitle">
+        <source>Logga in</source>
+        <target>Logga in</target>
+        <note>Class = "UIButton"; normalTitle = "Logga in"; ObjectID = "Uf1-Md-ZIS";</note>
+      </trans-unit>
+      <trans-unit id="W0H-yp-w4d.text">
+        <source>Tid:</source>
+        <target>Tid:</target>
+        <note>Class = "UILabel"; text = "Tid:"; ObjectID = "W0H-yp-w4d";</note>
+      </trans-unit>
+      <trans-unit id="W6A-o8-XHU.title">
+        <source>Tillbaka</source>
+        <target>Tillbaka</target>
+        <note>Class = "UIBarButtonItem"; title = "Tillbaka"; ObjectID = "W6A-o8-XHU";</note>
+      </trans-unit>
+      <trans-unit id="Y8u-AA-hex.text">
+        <source>Datum</source>
+        <target>Datum</target>
+        <note>Class = "UILabel"; text = "Datum"; ObjectID = "Y8u-AA-hex";</note>
+      </trans-unit>
+      <trans-unit id="YD1-fs-uXJ.text">
+        <source>Datum:</source>
+        <target>Datum:</target>
+        <note>Class = "UILabel"; text = "Datum:"; ObjectID = "YD1-fs-uXJ";</note>
+      </trans-unit>
+      <trans-unit id="YQU-SO-dkB.title">
+        <source>Tillbaka</source>
+        <target>Tillbaka</target>
+        <note>Class = "UIBarButtonItem"; title = "Tillbaka"; ObjectID = "YQU-SO-dkB";</note>
+      </trans-unit>
+      <trans-unit id="ZJu-hl-Ldg.title">
+        <source>Item</source>
+        <target>Item</target>
+        <note>Class = "UIBarButtonItem"; title = "Item"; ObjectID = "ZJu-hl-Ldg";</note>
+      </trans-unit>
+      <trans-unit id="ZuC-iy-asj.normalTitle">
+        <source>Spara</source>
+        <target>Spara</target>
+        <note>Class = "UIButton"; normalTitle = "Spara"; ObjectID = "ZuC-iy-asj";</note>
+      </trans-unit>
+      <trans-unit id="ajL-5Q-vxM.normalTitle">
+        <source>Spara</source>
+        <target>Spara</target>
+        <note>Class = "UIButton"; normalTitle = "Spara"; ObjectID = "ajL-5Q-vxM";</note>
+      </trans-unit>
+      <trans-unit id="akG-Yk-2cb.title">
+        <source>Item</source>
+        <target>Item</target>
+        <note>Class = "UIBarButtonItem"; title = "Item"; ObjectID = "akG-Yk-2cb";</note>
+      </trans-unit>
+      <trans-unit id="bN6-2q-Qwy.text">
+        <source>km</source>
+        <target>km</target>
+        <note>Class = "UILabel"; text = "km"; ObjectID = "bN6-2q-Qwy";</note>
+      </trans-unit>
+      <trans-unit id="c0r-xI-afb.segmentTitles[0]">
+        <source>Visa lösenord</source>
+        <target>Visa lösenord</target>
+        <note>Class = "UISegmentedControl"; c0r-xI-afb.segmentTitles[0] = "Visa lösenord"; ObjectID = "c0r-xI-afb";</note>
+      </trans-unit>
+      <trans-unit id="c0r-xI-afb.segmentTitles[1]">
+        <source>Göm lösenord</source>
+        <target>Göm lösenord</target>
+        <note>Class = "UISegmentedControl"; c0r-xI-afb.segmentTitles[1] = "Göm lösenord"; ObjectID = "c0r-xI-afb";</note>
+      </trans-unit>
+      <trans-unit id="cFl-gB-hXs.text">
+        <source>00:00:00</source>
+        <target>00:00:00</target>
+        <note>Class = "UILabel"; text = "00:00:00"; ObjectID = "cFl-gB-hXs";</note>
+      </trans-unit>
+      <trans-unit id="cUv-lB-i5v.normalTitle">
+        <source>Nästa</source>
+        <target>Nästa</target>
+        <note>Class = "UIButton"; normalTitle = "Nästa"; ObjectID = "cUv-lB-i5v";</note>
+      </trans-unit>
+      <trans-unit id="ccY-uL-x9H.title">
+        <source>Item</source>
+        <target>Item</target>
+        <note>Class = "UIBarButtonItem"; title = "Item"; ObjectID = "ccY-uL-x9H";</note>
+      </trans-unit>
+      <trans-unit id="g0D-a3-iPE.title">
+        <source>Tillbaka</source>
+        <target>Tillbaka</target>
+        <note>Class = "UIBarButtonItem"; title = "Tillbaka"; ObjectID = "g0D-a3-iPE";</note>
+      </trans-unit>
+      <trans-unit id="gIS-LU-r1n.title">
+        <source>Item</source>
+        <target>Item</target>
+        <note>Class = "UIBarButtonItem"; title = "Item"; ObjectID = "gIS-LU-r1n";</note>
+      </trans-unit>
+      <trans-unit id="gZz-we-RuM.title">
+        <source>Visa rad</source>
+        <target>Visa rad</target>
+        <note>Class = "UINavigationItem"; title = "Visa rad"; ObjectID = "gZz-we-RuM";</note>
+      </trans-unit>
+      <trans-unit id="hVV-6O-XLA.placeholder">
+        <source>Upprepa lösenord</source>
+        <target>Upprepa lösenord</target>
+        <note>Class = "UITextField"; placeholder = "Upprepa lösenord"; ObjectID = "hVV-6O-XLA";</note>
+      </trans-unit>
+      <trans-unit id="hcO-Y4-GZN.normalTitle">
+        <source>Logga in</source>
+        <target>Logga in</target>
+        <note>Class = "UIButton"; normalTitle = "Logga in"; ObjectID = "hcO-Y4-GZN";</note>
+      </trans-unit>
+      <trans-unit id="iO0-54-AnF.placeholder">
+        <source>Namn 1</source>
+        <target>Namn 1</target>
+        <note>Class = "UITextField"; placeholder = "Namn 1"; ObjectID = "iO0-54-AnF";</note>
+      </trans-unit>
+      <trans-unit id="ike-p5-HmE.text">
+        <source>00:00:00</source>
+        <target>00:00:00</target>
+        <note>Class = "UILabel"; text = "00:00:00"; ObjectID = "ike-p5-HmE";</note>
+      </trans-unit>
+      <trans-unit id="jPJ-Xp-Yhg.title">
+        <source>Spara</source>
+        <target>Spara</target>
+        <note>Class = "UIBarButtonItem"; title = "Spara"; ObjectID = "jPJ-Xp-Yhg";</note>
+      </trans-unit>
+      <trans-unit id="jYF-aH-JX3.title">
+        <source>Tillbaka</source>
+        <target>Tillbaka</target>
+        <note>Class = "UIBarButtonItem"; title = "Tillbaka"; ObjectID = "jYF-aH-JX3";</note>
+      </trans-unit>
+      <trans-unit id="jjv-WQ-Kup.placeholder">
+        <source>Namn 4</source>
+        <target>Namn 4</target>
+        <note>Class = "UITextField"; placeholder = "Namn 4"; ObjectID = "jjv-WQ-Kup";</note>
+      </trans-unit>
+      <trans-unit id="kZE-0I-415.title">
+        <source>Item</source>
+        <target>Item</target>
+        <note>Class = "UIBarButtonItem"; title = "Item"; ObjectID = "kZE-0I-415";</note>
+      </trans-unit>
+      <trans-unit id="ljg-3i-ve4.title">
+        <source>Ange personer</source>
+        <target>Ange personer</target>
+        <note>Class = "UINavigationItem"; title = "Ange personer"; ObjectID = "ljg-3i-ve4";</note>
+      </trans-unit>
+      <trans-unit id="moV-xo-Ke4.text">
+        <source>Nytt lösenord:</source>
+        <target>Nytt lösenord:</target>
+        <note>Class = "UILabel"; text = "Nytt lösenord:"; ObjectID = "moV-xo-Ke4";</note>
+      </trans-unit>
+      <trans-unit id="nAj-9p-cIg.text">
+        <source>Tid</source>
+        <target>Tid</target>
+        <note>Class = "UILabel"; text = "Tid"; ObjectID = "nAj-9p-cIg";</note>
+      </trans-unit>
+      <trans-unit id="nGM-an-tlJ.text">
+        <source>Upprepa lösenord:</source>
+        <target>Upprepa lösenord:</target>
+        <note>Class = "UILabel"; text = "Upprepa lösenord:"; ObjectID = "nGM-an-tlJ";</note>
+      </trans-unit>
+      <trans-unit id="ooN-eX-0qo.placeholder">
+        <source>Namn 5</source>
+        <target>Namn 5</target>
+        <note>Class = "UITextField"; placeholder = "Namn 5"; ObjectID = "ooN-eX-0qo";</note>
+      </trans-unit>
+      <trans-unit id="pmO-sO-iYE.title">
+        <source>Tillbaka</source>
+        <target>Tillbaka</target>
+        <note>Class = "UIBarButtonItem"; title = "Tillbaka"; ObjectID = "pmO-sO-iYE";</note>
+      </trans-unit>
+      <trans-unit id="rdq-Z9-C1m.text">
+        <source>Action</source>
+        <target>Action</target>
+        <note>Class = "UILabel"; text = "Action"; ObjectID = "rdq-Z9-C1m";</note>
+      </trans-unit>
+      <trans-unit id="sSd-7e-RbD.placeholder">
+        <source>Hund 3</source>
+        <target>Hund 3</target>
+        <note>Class = "UITextField"; placeholder = "Hund 3"; ObjectID = "sSd-7e-RbD";</note>
+      </trans-unit>
+      <trans-unit id="tlZ-US-zbA.title">
+        <source>Historik</source>
+        <target>Historik</target>
+        <note>Class = "UINavigationItem"; title = "Historik"; ObjectID = "tlZ-US-zbA";</note>
+      </trans-unit>
+      <trans-unit id="uHy-ib-p8P.title">
+        <source>Item</source>
+        <target>Item</target>
+        <note>Class = "UIBarButtonItem"; title = "Item"; ObjectID = "uHy-ib-p8P";</note>
+      </trans-unit>
+      <trans-unit id="uLc-ce-iCV.segmentTitles[0]">
+        <source>Satellit</source>
+        <target>Satellit</target>
+        <note>Class = "UISegmentedControl"; uLc-ce-iCV.segmentTitles[0] = "Satellit"; ObjectID = "uLc-ce-iCV";</note>
+      </trans-unit>
+      <trans-unit id="uLc-ce-iCV.segmentTitles[1]">
+        <source>Standard</source>
+        <target>Standard</target>
+        <note>Class = "UISegmentedControl"; uLc-ce-iCV.segmentTitles[1] = "Standard"; ObjectID = "uLc-ce-iCV";</note>
+      </trans-unit>
+      <trans-unit id="uvJ-6F-bRJ.placeholder">
+        <source>Lösenord</source>
+        <target>Lösenord</target>
+        <note>Class = "UITextField"; placeholder = "Lösenord"; ObjectID = "uvJ-6F-bRJ";</note>
+      </trans-unit>
+      <trans-unit id="vat-fi-IWz.text">
+        <source>Vad gjorde hunden?</source>
+        <target>Vad gjorde hunden?</target>
+        <note>Class = "UILabel"; text = "Vad gjorde hunden?"; ObjectID = "vat-fi-IWz";</note>
+      </trans-unit>
+      <trans-unit id="w6l-eL-mB5.title">
+        <source>Inställningar</source>
+        <target>Inställningar</target>
+        <note>Class = "UINavigationItem"; title = "Inställningar"; ObjectID = "w6l-eL-mB5";</note>
+      </trans-unit>
+      <trans-unit id="wIj-KQ-bPC.title">
+        <source>Poänglista</source>
+        <target>Poänglista</target>
+        <note>Class = "UINavigationItem"; title = "Poänglista"; ObjectID = "wIj-KQ-bPC";</note>
+      </trans-unit>
+      <trans-unit id="yxY-1p-tsd.text">
+        <source>Vem</source>
+        <target>Vem</target>
+        <note>Class = "UILabel"; text = "Vem"; ObjectID = "yxY-1p-tsd";</note>
+      </trans-unit>
+      <trans-unit id="zFU-p9-sl1.placeholder">
+        <source>Namn 2</source>
+        <target>Namn 2</target>
+        <note>Class = "UITextField"; placeholder = "Namn 2"; ObjectID = "zFU-p9-sl1";</note>
+      </trans-unit>
+      <trans-unit id="zKL-p2-0NT.placeholder">
+        <source>Lösenord</source>
+        <target>Lösenord</target>
+        <note>Class = "UITextField"; placeholder = "Lösenord"; ObjectID = "zKL-p2-0NT";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="MyDogwalk/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="da">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.1" build-num="10B61"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSLocationAlwaysAndWhenInUseUsageDescription">
+        <source>Tillåt Dogwalk att använda din nuvarande plats</source>
+        <note>Privacy - Location Always and When In Use Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSLocationWhenInUseUsageDescription">
+        <source>Tillåt Dogwalk att använda din nuvarande plats</source>
+        <note>Privacy - Location When In Use Usage Description</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
